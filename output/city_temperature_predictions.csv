@@ -1,0 +1,1898 @@
+Country,City,Date,Predicted_Temperature_C,Future_Trend
+Afghanistan,Kabul,2026-05-01,13.73,Stable
+Afghanistan,Kabul,2026-05-02,13.7,Stable
+Afghanistan,Kabul,2026-05-03,13.68,Stable
+Afghanistan,Kabul,2026-05-04,13.66,Stable
+Afghanistan,Kabul,2026-05-05,13.63,Stable
+Afghanistan,Kabul,2026-05-06,13.61,Stable
+Afghanistan,Kabul,2026-05-07,13.58,Stable
+Albania,Tirana,2026-05-01,9.61,Decreasing
+Albania,Tirana,2026-05-02,9.57,Decreasing
+Albania,Tirana,2026-05-03,9.52,Decreasing
+Albania,Tirana,2026-05-04,9.48,Decreasing
+Albania,Tirana,2026-05-05,9.44,Decreasing
+Albania,Tirana,2026-05-06,9.39,Decreasing
+Albania,Tirana,2026-05-07,9.35,Decreasing
+Algeria,Algiers,2026-05-01,12.12,Decreasing
+Algeria,Algiers,2026-05-02,12.08,Decreasing
+Algeria,Algiers,2026-05-03,12.04,Decreasing
+Algeria,Algiers,2026-05-04,12.01,Decreasing
+Algeria,Algiers,2026-05-05,11.97,Decreasing
+Algeria,Algiers,2026-05-06,11.93,Decreasing
+Algeria,Algiers,2026-05-07,11.9,Decreasing
+Andorra,Andorra La Vella,2026-05-01,-0.26,Decreasing
+Andorra,Andorra La Vella,2026-05-02,-0.3,Decreasing
+Andorra,Andorra La Vella,2026-05-03,-0.34,Decreasing
+Andorra,Andorra La Vella,2026-05-04,-0.38,Decreasing
+Andorra,Andorra La Vella,2026-05-05,-0.42,Decreasing
+Andorra,Andorra La Vella,2026-05-06,-0.46,Decreasing
+Andorra,Andorra La Vella,2026-05-07,-0.5,Decreasing
+Angola,Luanda,2026-05-01,24.98,Stable
+Angola,Luanda,2026-05-02,24.98,Stable
+Angola,Luanda,2026-05-03,24.97,Stable
+Angola,Luanda,2026-05-04,24.97,Stable
+Angola,Luanda,2026-05-05,24.96,Stable
+Angola,Luanda,2026-05-06,24.95,Stable
+Angola,Luanda,2026-05-07,24.95,Stable
+Antigua and Barbuda,Saint John's,2026-05-01,24.46,Stable
+Antigua and Barbuda,Saint John's,2026-05-02,24.45,Stable
+Antigua and Barbuda,Saint John's,2026-05-03,24.44,Stable
+Antigua and Barbuda,Saint John's,2026-05-04,24.44,Stable
+Antigua and Barbuda,Saint John's,2026-05-05,24.43,Stable
+Antigua and Barbuda,Saint John's,2026-05-06,24.42,Stable
+Antigua and Barbuda,Saint John's,2026-05-07,24.41,Stable
+Argentina,Buenos Aires,2026-05-01,17.94,Stable
+Argentina,Buenos Aires,2026-05-02,17.95,Stable
+Argentina,Buenos Aires,2026-05-03,17.97,Stable
+Argentina,Buenos Aires,2026-05-04,17.98,Stable
+Argentina,Buenos Aires,2026-05-05,17.99,Stable
+Argentina,Buenos Aires,2026-05-06,18.0,Stable
+Argentina,Buenos Aires,2026-05-07,18.02,Stable
+Armenia,Yerevan,2026-05-01,7.22,Decreasing
+Armenia,Yerevan,2026-05-02,7.17,Decreasing
+Armenia,Yerevan,2026-05-03,7.13,Decreasing
+Armenia,Yerevan,2026-05-04,7.09,Decreasing
+Armenia,Yerevan,2026-05-05,7.05,Decreasing
+Armenia,Yerevan,2026-05-06,7.0,Decreasing
+Armenia,Yerevan,2026-05-07,6.96,Decreasing
+Australia,Canberra,2026-05-01,24.41,Increasing
+Australia,Canberra,2026-05-02,24.45,Increasing
+Australia,Canberra,2026-05-03,24.49,Increasing
+Australia,Canberra,2026-05-04,24.53,Increasing
+Australia,Canberra,2026-05-05,24.58,Increasing
+Australia,Canberra,2026-05-06,24.62,Increasing
+Australia,Canberra,2026-05-07,24.66,Increasing
+Australia,Melbourne,2024-06-26,11.6,Stable
+Australia,Melbourne,2024-06-27,11.6,Stable
+Australia,Melbourne,2024-06-28,11.6,Stable
+Australia,Melbourne,2024-06-29,11.6,Stable
+Australia,Melbourne,2024-06-30,11.6,Stable
+Australia,Melbourne,2024-07-01,11.6,Stable
+Australia,Melbourne,2024-07-02,11.6,Stable
+Austria,Vienna,2026-05-01,4.01,Decreasing
+Austria,Vienna,2026-05-02,3.97,Decreasing
+Austria,Vienna,2026-05-03,3.93,Decreasing
+Austria,Vienna,2026-05-04,3.89,Decreasing
+Austria,Vienna,2026-05-05,3.85,Decreasing
+Austria,Vienna,2026-05-06,3.81,Decreasing
+Austria,Vienna,2026-05-07,3.77,Decreasing
+Azerbaijan,Baku,2026-05-01,12.69,Stable
+Azerbaijan,Baku,2026-05-02,12.66,Stable
+Azerbaijan,Baku,2026-05-03,12.63,Stable
+Azerbaijan,Baku,2026-05-04,12.61,Stable
+Azerbaijan,Baku,2026-05-05,12.58,Stable
+Azerbaijan,Baku,2026-05-06,12.56,Stable
+Azerbaijan,Baku,2026-05-07,12.53,Stable
+Bahamas,Nassau,2026-05-01,21.97,Stable
+Bahamas,Nassau,2026-05-02,21.96,Stable
+Bahamas,Nassau,2026-05-03,21.95,Stable
+Bahamas,Nassau,2026-05-04,21.94,Stable
+Bahamas,Nassau,2026-05-05,21.93,Stable
+Bahamas,Nassau,2026-05-06,21.91,Stable
+Bahamas,Nassau,2026-05-07,21.9,Stable
+Bahrain,Manama,2026-05-01,24.6,Stable
+Bahrain,Manama,2026-05-02,24.58,Stable
+Bahrain,Manama,2026-05-03,24.55,Stable
+Bahrain,Manama,2026-05-04,24.53,Stable
+Bahrain,Manama,2026-05-05,24.51,Stable
+Bahrain,Manama,2026-05-06,24.48,Stable
+Bahrain,Manama,2026-05-07,24.46,Stable
+Bangladesh,Dhaka,2026-05-01,31.45,Stable
+Bangladesh,Dhaka,2026-05-02,31.45,Stable
+Bangladesh,Dhaka,2026-05-03,31.46,Stable
+Bangladesh,Dhaka,2026-05-04,31.46,Stable
+Bangladesh,Dhaka,2026-05-05,31.46,Stable
+Bangladesh,Dhaka,2026-05-06,31.46,Stable
+Bangladesh,Dhaka,2026-05-07,31.47,Stable
+Barbados,Bridgetown,2026-05-01,25.59,Stable
+Barbados,Bridgetown,2026-05-02,25.58,Stable
+Barbados,Bridgetown,2026-05-03,25.58,Stable
+Barbados,Bridgetown,2026-05-04,25.57,Stable
+Barbados,Bridgetown,2026-05-05,25.56,Stable
+Barbados,Bridgetown,2026-05-06,25.56,Stable
+Barbados,Bridgetown,2026-05-07,25.55,Stable
+Belarus,Minsk,2026-05-01,-1.04,Decreasing
+Belarus,Minsk,2026-05-02,-1.09,Decreasing
+Belarus,Minsk,2026-05-03,-1.14,Decreasing
+Belarus,Minsk,2026-05-04,-1.19,Decreasing
+Belarus,Minsk,2026-05-05,-1.24,Decreasing
+Belarus,Minsk,2026-05-06,-1.29,Decreasing
+Belarus,Minsk,2026-05-07,-1.34,Decreasing
+Belgium,'S Gravenjansdijk,2025-08-21,13.48,Stable
+Belgium,'S Gravenjansdijk,2025-08-22,13.47,Stable
+Belgium,'S Gravenjansdijk,2025-08-23,13.47,Stable
+Belgium,'S Gravenjansdijk,2025-08-24,13.46,Stable
+Belgium,'S Gravenjansdijk,2025-08-25,13.45,Stable
+Belgium,'S Gravenjansdijk,2025-08-26,13.44,Stable
+Belgium,'S Gravenjansdijk,2025-08-27,13.43,Stable
+Belgium,'S Gravenjansdyk,2024-06-20,16.45,Decreasing
+Belgium,'S Gravenjansdyk,2024-06-21,15.91,Decreasing
+Belgium,'S Gravenjansdyk,2024-06-22,15.37,Decreasing
+Belgium,'S Gravenjansdyk,2024-06-23,14.83,Decreasing
+Belgium,'S Gravenjansdyk,2024-06-24,14.29,Decreasing
+Belgium,'S Gravenjansdyk,2024-06-25,13.75,Decreasing
+Belgium,'S Gravenjansdyk,2024-06-26,13.21,Decreasing
+Belgium,'S Gravenstaffel,2024-05-31,17.17,Increasing
+Belgium,'S Gravenstaffel,2024-06-01,17.36,Increasing
+Belgium,'S Gravenstaffel,2024-06-02,17.55,Increasing
+Belgium,'S Gravenstaffel,2024-06-03,17.74,Increasing
+Belgium,'S Gravenstaffel,2024-06-04,17.93,Increasing
+Belgium,'S Gravenstaffel,2024-06-05,18.12,Increasing
+Belgium,'S Gravenstaffel,2024-06-06,18.31,Increasing
+Belgium,'S-Gravenbrakel,2026-05-01,3.56,Decreasing
+Belgium,'S-Gravenbrakel,2026-05-02,3.46,Decreasing
+Belgium,'S-Gravenbrakel,2026-05-03,3.37,Decreasing
+Belgium,'S-Gravenbrakel,2026-05-04,3.28,Decreasing
+Belgium,'S-Gravenbrakel,2026-05-05,3.18,Decreasing
+Belgium,'S-Gravenbrakel,2026-05-06,3.09,Decreasing
+Belgium,'S-Gravenbrakel,2026-05-07,3.0,Decreasing
+Belgium,Brussels,2026-05-01,6.17,Stable
+Belgium,Brussels,2026-05-02,6.14,Stable
+Belgium,Brussels,2026-05-03,6.11,Stable
+Belgium,Brussels,2026-05-04,6.09,Stable
+Belgium,Brussels,2026-05-05,6.06,Stable
+Belgium,Brussels,2026-05-06,6.03,Stable
+Belgium,Brussels,2026-05-07,6.01,Stable
+Belize,Belmopan,2026-05-01,19.26,Stable
+Belize,Belmopan,2026-05-02,19.25,Stable
+Belize,Belmopan,2026-05-03,19.23,Stable
+Belize,Belmopan,2026-05-04,19.22,Stable
+Belize,Belmopan,2026-05-05,19.21,Stable
+Belize,Belmopan,2026-05-06,19.19,Stable
+Belize,Belmopan,2026-05-07,19.18,Stable
+Benin,Porto-Novo,2026-05-01,26.65,Stable
+Benin,Porto-Novo,2026-05-02,26.65,Stable
+Benin,Porto-Novo,2026-05-03,26.64,Stable
+Benin,Porto-Novo,2026-05-04,26.63,Stable
+Benin,Porto-Novo,2026-05-05,26.62,Stable
+Benin,Porto-Novo,2026-05-06,26.62,Stable
+Benin,Porto-Novo,2026-05-07,26.61,Stable
+Bhutan,Thimphu,2026-05-01,13.65,Stable
+Bhutan,Thimphu,2026-05-02,13.65,Stable
+Bhutan,Thimphu,2026-05-03,13.65,Stable
+Bhutan,Thimphu,2026-05-04,13.65,Stable
+Bhutan,Thimphu,2026-05-05,13.65,Stable
+Bhutan,Thimphu,2026-05-06,13.65,Stable
+Bhutan,Thimphu,2026-05-07,13.66,Stable
+Bolivia,National,2026-05-01,21.34,Stable
+Bolivia,National,2026-05-02,21.34,Stable
+Bolivia,National,2026-05-03,21.33,Stable
+Bolivia,National,2026-05-04,21.33,Stable
+Bolivia,National,2026-05-05,21.32,Stable
+Bolivia,National,2026-05-06,21.32,Stable
+Bolivia,National,2026-05-07,21.31,Stable
+Bolivia,Sucre,2026-05-01,11.98,Stable
+Bolivia,Sucre,2026-05-02,11.98,Stable
+Bolivia,Sucre,2026-05-03,11.98,Stable
+Bolivia,Sucre,2026-05-04,11.98,Stable
+Bolivia,Sucre,2026-05-05,11.98,Stable
+Bolivia,Sucre,2026-05-06,11.98,Stable
+Bolivia,Sucre,2026-05-07,11.98,Stable
+Bosnia and Herzegovina,Sarajevo,2026-05-01,2.47,Decreasing
+Bosnia and Herzegovina,Sarajevo,2026-05-02,2.43,Decreasing
+Bosnia and Herzegovina,Sarajevo,2026-05-03,2.38,Decreasing
+Bosnia and Herzegovina,Sarajevo,2026-05-04,2.33,Decreasing
+Bosnia and Herzegovina,Sarajevo,2026-05-05,2.28,Decreasing
+Bosnia and Herzegovina,Sarajevo,2026-05-06,2.24,Decreasing
+Bosnia and Herzegovina,Sarajevo,2026-05-07,2.19,Decreasing
+Botswana,Gaborone,2026-05-01,18.34,Stable
+Botswana,Gaborone,2026-05-02,18.32,Stable
+Botswana,Gaborone,2026-05-03,18.3,Stable
+Botswana,Gaborone,2026-05-04,18.28,Stable
+Botswana,Gaborone,2026-05-05,18.26,Stable
+Botswana,Gaborone,2026-05-06,18.23,Stable
+Botswana,Gaborone,2026-05-07,18.21,Stable
+Brazil,Bras,2026-05-01,21.51,Stable
+Brazil,Bras,2026-05-02,21.49,Stable
+Brazil,Bras,2026-05-03,21.48,Stable
+Brazil,Bras,2026-05-04,21.47,Stable
+Brazil,Bras,2026-05-05,21.46,Stable
+Brazil,Bras,2026-05-06,21.45,Stable
+Brazil,Bras,2026-05-07,21.43,Stable
+Brazil,Sao Paulo,2024-06-26,17.9,Stable
+Brazil,Sao Paulo,2024-06-27,17.9,Stable
+Brazil,Sao Paulo,2024-06-28,17.9,Stable
+Brazil,Sao Paulo,2024-06-29,17.9,Stable
+Brazil,Sao Paulo,2024-06-30,17.9,Stable
+Brazil,Sao Paulo,2024-07-01,17.9,Stable
+Brazil,Sao Paulo,2024-07-02,17.9,Stable
+Brunei Darussalam,Bandar Seri Begawan,2026-05-01,31.5,Stable
+Brunei Darussalam,Bandar Seri Begawan,2026-05-02,31.51,Stable
+Brunei Darussalam,Bandar Seri Begawan,2026-05-03,31.52,Stable
+Brunei Darussalam,Bandar Seri Begawan,2026-05-04,31.52,Stable
+Brunei Darussalam,Bandar Seri Begawan,2026-05-05,31.53,Stable
+Brunei Darussalam,Bandar Seri Begawan,2026-05-06,31.54,Stable
+Brunei Darussalam,Bandar Seri Begawan,2026-05-07,31.55,Stable
+Bulgaria,Bogot,2026-04-24,8.45,Decreasing
+Bulgaria,Bogot,2026-04-25,8.41,Decreasing
+Bulgaria,Bogot,2026-04-26,8.36,Decreasing
+Bulgaria,Bogot,2026-04-27,8.32,Decreasing
+Bulgaria,Bogot,2026-04-28,8.28,Decreasing
+Bulgaria,Bogot,2026-04-29,8.24,Decreasing
+Bulgaria,Bogot,2026-04-30,8.19,Decreasing
+Bulgaria,Lom,2026-05-01,-0.15,Decreasing
+Bulgaria,Lom,2026-05-02,-0.27,Decreasing
+Bulgaria,Lom,2026-05-03,-0.38,Decreasing
+Bulgaria,Lom,2026-05-04,-0.5,Decreasing
+Bulgaria,Lom,2026-05-05,-0.61,Decreasing
+Bulgaria,Lom,2026-05-06,-0.73,Decreasing
+Bulgaria,Lom,2026-05-07,-0.84,Decreasing
+Bulgaria,Sofia,2026-05-01,3.95,Decreasing
+Bulgaria,Sofia,2026-05-02,3.91,Decreasing
+Bulgaria,Sofia,2026-05-03,3.86,Decreasing
+Bulgaria,Sofia,2026-05-04,3.82,Decreasing
+Bulgaria,Sofia,2026-05-05,3.78,Decreasing
+Bulgaria,Sofia,2026-05-06,3.73,Decreasing
+Bulgaria,Sofia,2026-05-07,3.69,Decreasing
+Burkina Faso,Ouagadougou,2026-05-01,22.71,Stable
+Burkina Faso,Ouagadougou,2026-05-02,22.68,Stable
+Burkina Faso,Ouagadougou,2026-05-03,22.66,Stable
+Burkina Faso,Ouagadougou,2026-05-04,22.63,Stable
+Burkina Faso,Ouagadougou,2026-05-05,22.61,Stable
+Burkina Faso,Ouagadougou,2026-05-06,22.59,Stable
+Burkina Faso,Ouagadougou,2026-05-07,22.56,Stable
+Burundi,Bujumbura,2026-05-01,23.32,Stable
+Burundi,Bujumbura,2026-05-02,23.31,Stable
+Burundi,Bujumbura,2026-05-03,23.3,Stable
+Burundi,Bujumbura,2026-05-04,23.29,Stable
+Burundi,Bujumbura,2026-05-05,23.28,Stable
+Burundi,Bujumbura,2026-05-06,23.27,Stable
+Burundi,Bujumbura,2026-05-07,23.25,Stable
+BÃ©lgica,Bern,2024-07-14,17.4,Stable
+BÃ©lgica,Bern,2024-07-15,17.4,Stable
+BÃ©lgica,Bern,2024-07-16,17.4,Stable
+BÃ©lgica,Bern,2024-07-17,17.4,Stable
+BÃ©lgica,Bern,2024-07-18,17.4,Stable
+BÃ©lgica,Bern,2024-07-19,17.4,Stable
+BÃ©lgica,Bern,2024-07-20,17.4,Stable
+Cambodia,Phnom Penh,2026-05-01,33.82,Stable
+Cambodia,Phnom Penh,2026-05-02,33.83,Stable
+Cambodia,Phnom Penh,2026-05-03,33.84,Stable
+Cambodia,Phnom Penh,2026-05-04,33.85,Stable
+Cambodia,Phnom Penh,2026-05-05,33.86,Stable
+Cambodia,Phnom Penh,2026-05-06,33.87,Stable
+Cambodia,Phnom Penh,2026-05-07,33.89,Stable
+Cambodia,Phnum Penh,2024-06-26,26.3,Stable
+Cambodia,Phnum Penh,2024-06-27,26.3,Stable
+Cambodia,Phnum Penh,2024-06-28,26.3,Stable
+Cambodia,Phnum Penh,2024-06-29,26.3,Stable
+Cambodia,Phnum Penh,2024-06-30,26.3,Stable
+Cambodia,Phnum Penh,2024-07-01,26.3,Stable
+Cambodia,Phnum Penh,2024-07-02,26.3,Stable
+Cameroon,Bafoussam,2024-06-20,21.76,Decreasing
+Cameroon,Bafoussam,2024-06-21,21.65,Decreasing
+Cameroon,Bafoussam,2024-06-22,21.54,Decreasing
+Cameroon,Bafoussam,2024-06-23,21.44,Decreasing
+Cameroon,Bafoussam,2024-06-24,21.33,Decreasing
+Cameroon,Bafoussam,2024-06-25,21.22,Decreasing
+Cameroon,Bafoussam,2024-06-26,21.11,Decreasing
+Cameroon,Douala,2026-05-01,25.43,Stable
+Cameroon,Douala,2026-05-02,25.42,Stable
+Cameroon,Douala,2026-05-03,25.42,Stable
+Cameroon,Douala,2026-05-04,25.42,Stable
+Cameroon,Douala,2026-05-05,25.42,Stable
+Cameroon,Douala,2026-05-06,25.42,Stable
+Cameroon,Douala,2026-05-07,25.42,Stable
+Cameroon,Ngaoundere,2025-08-21,25.09,Stable
+Cameroon,Ngaoundere,2025-08-22,25.09,Stable
+Cameroon,Ngaoundere,2025-08-23,25.08,Stable
+Cameroon,Ngaoundere,2025-08-24,25.08,Stable
+Cameroon,Ngaoundere,2025-08-25,25.08,Stable
+Cameroon,Ngaoundere,2025-08-26,25.08,Stable
+Cameroon,Ngaoundere,2025-08-27,25.08,Stable
+Cameroon,Yaounde,2024-05-31,29.67,Stable
+Cameroon,Yaounde,2024-06-01,29.65,Stable
+Cameroon,Yaounde,2024-06-02,29.64,Stable
+Cameroon,Yaounde,2024-06-03,29.62,Stable
+Cameroon,Yaounde,2024-06-04,29.61,Stable
+Cameroon,Yaounde,2024-06-05,29.59,Stable
+Cameroon,Yaounde,2024-06-06,29.58,Stable
+Canada,Ottawa,2026-05-01,-2.84,Decreasing
+Canada,Ottawa,2026-05-02,-2.87,Decreasing
+Canada,Ottawa,2026-05-03,-2.91,Decreasing
+Canada,Ottawa,2026-05-04,-2.95,Decreasing
+Canada,Ottawa,2026-05-05,-2.98,Decreasing
+Canada,Ottawa,2026-05-06,-3.02,Decreasing
+Canada,Ottawa,2026-05-07,-3.06,Decreasing
+Cape Verde,Praia,2026-05-01,20.61,Stable
+Cape Verde,Praia,2026-05-02,20.59,Stable
+Cape Verde,Praia,2026-05-03,20.58,Stable
+Cape Verde,Praia,2026-05-04,20.56,Stable
+Cape Verde,Praia,2026-05-05,20.55,Stable
+Cape Verde,Praia,2026-05-06,20.53,Stable
+Cape Verde,Praia,2026-05-07,20.52,Stable
+Central African Republic,Bangui,2026-05-01,23.0,Stable
+Central African Republic,Bangui,2026-05-02,22.98,Stable
+Central African Republic,Bangui,2026-05-03,22.96,Stable
+Central African Republic,Bangui,2026-05-04,22.94,Stable
+Central African Republic,Bangui,2026-05-05,22.91,Stable
+Central African Republic,Bangui,2026-05-06,22.89,Stable
+Central African Republic,Bangui,2026-05-07,22.87,Stable
+Chad,N'djamena,2026-05-01,23.63,Stable
+Chad,N'djamena,2026-05-02,23.6,Stable
+Chad,N'djamena,2026-05-03,23.58,Stable
+Chad,N'djamena,2026-05-04,23.55,Stable
+Chad,N'djamena,2026-05-05,23.52,Stable
+Chad,N'djamena,2026-05-06,23.5,Stable
+Chad,N'djamena,2026-05-07,23.47,Stable
+Chile,Santiago,2026-05-01,14.66,Stable
+Chile,Santiago,2026-05-02,14.67,Stable
+Chile,Santiago,2026-05-03,14.69,Stable
+Chile,Santiago,2026-05-04,14.7,Stable
+Chile,Santiago,2026-05-05,14.72,Stable
+Chile,Santiago,2026-05-06,14.73,Stable
+Chile,Santiago,2026-05-07,14.75,Stable
+China,Beijing,2026-05-01,14.79,Stable
+China,Beijing,2026-05-02,14.77,Stable
+China,Beijing,2026-05-03,14.76,Stable
+China,Beijing,2026-05-04,14.74,Stable
+China,Beijing,2026-05-05,14.73,Stable
+China,Beijing,2026-05-06,14.72,Stable
+China,Beijing,2026-05-07,14.7,Stable
+China,Beijing Shi,2024-07-14,24.3,Stable
+China,Beijing Shi,2024-07-15,24.3,Stable
+China,Beijing Shi,2024-07-16,24.3,Stable
+China,Beijing Shi,2024-07-17,24.3,Stable
+China,Beijing Shi,2024-07-18,24.3,Stable
+China,Beijing Shi,2024-07-19,24.3,Stable
+China,Beijing Shi,2024-07-20,24.3,Stable
+Colombia,Bogota,2024-06-26,13.5,Stable
+Colombia,Bogota,2024-06-27,13.5,Stable
+Colombia,Bogota,2024-06-28,13.5,Stable
+Colombia,Bogota,2024-06-29,13.5,Stable
+Colombia,Bogota,2024-06-30,13.5,Stable
+Colombia,Bogota,2024-07-01,13.5,Stable
+Colombia,Bogota,2024-07-02,13.5,Stable
+Comoros,Moroni,2026-05-01,28.01,Stable
+Comoros,Moroni,2026-05-02,28.01,Stable
+Comoros,Moroni,2026-05-03,28.02,Stable
+Comoros,Moroni,2026-05-04,28.02,Stable
+Comoros,Moroni,2026-05-05,28.03,Stable
+Comoros,Moroni,2026-05-06,28.04,Stable
+Comoros,Moroni,2026-05-07,28.04,Stable
+Congo,Brazzaville,2026-05-01,22.39,Stable
+Congo,Brazzaville,2026-05-02,22.37,Stable
+Congo,Brazzaville,2026-05-03,22.35,Stable
+Congo,Brazzaville,2026-05-04,22.33,Stable
+Congo,Brazzaville,2026-05-05,22.31,Stable
+Congo,Brazzaville,2026-05-06,22.29,Stable
+Congo,Brazzaville,2026-05-07,22.27,Stable
+Costa Rica,San Ignacio,2025-08-21,21.06,Stable
+Costa Rica,San Ignacio,2025-08-22,21.08,Stable
+Costa Rica,San Ignacio,2025-08-23,21.09,Stable
+Costa Rica,San Ignacio,2025-08-24,21.1,Stable
+Costa Rica,San Ignacio,2025-08-25,21.11,Stable
+Costa Rica,San Ignacio,2025-08-26,21.12,Stable
+Costa Rica,San Ignacio,2025-08-27,21.14,Stable
+Costa Rica,San Jose,2026-05-01,15.52,Decreasing
+Costa Rica,San Jose,2026-05-02,15.47,Decreasing
+Costa Rica,San Jose,2026-05-03,15.43,Decreasing
+Costa Rica,San Jose,2026-05-04,15.38,Decreasing
+Costa Rica,San Jose,2026-05-05,15.33,Decreasing
+Costa Rica,San Jose,2026-05-06,15.29,Decreasing
+Costa Rica,San Jose,2026-05-07,15.24,Decreasing
+Costa Rica,San Juan,2024-05-31,23.82,Stable
+Costa Rica,San Juan,2024-06-01,23.83,Stable
+Costa Rica,San Juan,2024-06-02,23.84,Stable
+Costa Rica,San Juan,2024-06-03,23.85,Stable
+Costa Rica,San Juan,2024-06-04,23.86,Stable
+Costa Rica,San Juan,2024-06-05,23.87,Stable
+Costa Rica,San Juan,2024-06-06,23.88,Stable
+Cote d'Ivoire,Yamoussoukro,2026-05-01,23.3,Stable
+Cote d'Ivoire,Yamoussoukro,2026-05-02,23.3,Stable
+Cote d'Ivoire,Yamoussoukro,2026-05-03,23.31,Stable
+Cote d'Ivoire,Yamoussoukro,2026-05-04,23.31,Stable
+Cote d'Ivoire,Yamoussoukro,2026-05-05,23.32,Stable
+Cote d'Ivoire,Yamoussoukro,2026-05-06,23.32,Stable
+Cote d'Ivoire,Yamoussoukro,2026-05-07,23.33,Stable
+Croatia,Zagreb,2026-05-01,4.52,Decreasing
+Croatia,Zagreb,2026-05-02,4.48,Decreasing
+Croatia,Zagreb,2026-05-03,4.44,Decreasing
+Croatia,Zagreb,2026-05-04,4.39,Decreasing
+Croatia,Zagreb,2026-05-05,4.35,Decreasing
+Croatia,Zagreb,2026-05-06,4.31,Decreasing
+Croatia,Zagreb,2026-05-07,4.26,Decreasing
+Cuba,Havana,2026-05-01,19.45,Stable
+Cuba,Havana,2026-05-02,19.44,Stable
+Cuba,Havana,2026-05-03,19.42,Stable
+Cuba,Havana,2026-05-04,19.41,Stable
+Cuba,Havana,2026-05-05,19.4,Stable
+Cuba,Havana,2026-05-06,19.38,Stable
+Cuba,Havana,2026-05-07,19.37,Stable
+Cyprus,Nicosia,2026-05-01,17.01,Decreasing
+Cyprus,Nicosia,2026-05-02,16.98,Decreasing
+Cyprus,Nicosia,2026-05-03,16.95,Decreasing
+Cyprus,Nicosia,2026-05-04,16.91,Decreasing
+Cyprus,Nicosia,2026-05-05,16.88,Decreasing
+Cyprus,Nicosia,2026-05-06,16.85,Decreasing
+Cyprus,Nicosia,2026-05-07,16.82,Decreasing
+Czech Republic,Prague,2026-05-01,2.38,Decreasing
+Czech Republic,Prague,2026-05-02,2.34,Decreasing
+Czech Republic,Prague,2026-05-03,2.3,Decreasing
+Czech Republic,Prague,2026-05-04,2.26,Decreasing
+Czech Republic,Prague,2026-05-05,2.22,Decreasing
+Czech Republic,Prague,2026-05-06,2.19,Decreasing
+Czech Republic,Prague,2026-05-07,2.15,Decreasing
+Democratic Republic of Congo,Kinshasa,2026-05-01,22.3,Stable
+Democratic Republic of Congo,Kinshasa,2026-05-02,22.28,Stable
+Democratic Republic of Congo,Kinshasa,2026-05-03,22.26,Stable
+Democratic Republic of Congo,Kinshasa,2026-05-04,22.24,Stable
+Democratic Republic of Congo,Kinshasa,2026-05-05,22.22,Stable
+Democratic Republic of Congo,Kinshasa,2026-05-06,22.2,Stable
+Democratic Republic of Congo,Kinshasa,2026-05-07,22.18,Stable
+Denmark,Copenhagen,2026-05-01,4.28,Stable
+Denmark,Copenhagen,2026-05-02,4.25,Stable
+Denmark,Copenhagen,2026-05-03,4.22,Stable
+Denmark,Copenhagen,2026-05-04,4.19,Stable
+Denmark,Copenhagen,2026-05-05,4.16,Stable
+Denmark,Copenhagen,2026-05-06,4.13,Stable
+Denmark,Copenhagen,2026-05-07,4.1,Stable
+Djibouti,Djibouti,2026-05-01,27.41,Stable
+Djibouti,Djibouti,2026-05-02,27.4,Stable
+Djibouti,Djibouti,2026-05-03,27.38,Stable
+Djibouti,Djibouti,2026-05-04,27.36,Stable
+Djibouti,Djibouti,2026-05-05,27.34,Stable
+Djibouti,Djibouti,2026-05-06,27.33,Stable
+Djibouti,Djibouti,2026-05-07,27.31,Stable
+Dominica,Roseau,2026-05-01,24.93,Stable
+Dominica,Roseau,2026-05-02,24.93,Stable
+Dominica,Roseau,2026-05-03,24.92,Stable
+Dominica,Roseau,2026-05-04,24.91,Stable
+Dominica,Roseau,2026-05-05,24.9,Stable
+Dominica,Roseau,2026-05-06,24.9,Stable
+Dominica,Roseau,2026-05-07,24.89,Stable
+Dominican Republic,Santo Domingo,2026-05-01,21.92,Stable
+Dominican Republic,Santo Domingo,2026-05-02,21.92,Stable
+Dominican Republic,Santo Domingo,2026-05-03,21.91,Stable
+Dominican Republic,Santo Domingo,2026-05-04,21.9,Stable
+Dominican Republic,Santo Domingo,2026-05-05,21.89,Stable
+Dominican Republic,Santo Domingo,2026-05-06,21.88,Stable
+Dominican Republic,Santo Domingo,2026-05-07,21.87,Stable
+Ecuador,Quito,2026-05-01,10.15,Stable
+Ecuador,Quito,2026-05-02,10.14,Stable
+Ecuador,Quito,2026-05-03,10.14,Stable
+Ecuador,Quito,2026-05-04,10.14,Stable
+Ecuador,Quito,2026-05-05,10.14,Stable
+Ecuador,Quito,2026-05-06,10.14,Stable
+Ecuador,Quito,2026-05-07,10.14,Stable
+Egypt,Cairo,2026-05-01,17.38,Decreasing
+Egypt,Cairo,2026-05-02,17.35,Decreasing
+Egypt,Cairo,2026-05-03,17.31,Decreasing
+Egypt,Cairo,2026-05-04,17.27,Decreasing
+Egypt,Cairo,2026-05-05,17.24,Decreasing
+Egypt,Cairo,2026-05-06,17.2,Decreasing
+Egypt,Cairo,2026-05-07,17.16,Decreasing
+El Salvador,San Salvador,2026-05-01,24.19,Stable
+El Salvador,San Salvador,2026-05-02,24.19,Stable
+El Salvador,San Salvador,2026-05-03,24.2,Stable
+El Salvador,San Salvador,2026-05-04,24.2,Stable
+El Salvador,San Salvador,2026-05-05,24.2,Stable
+El Salvador,San Salvador,2026-05-06,24.2,Stable
+El Salvador,San Salvador,2026-05-07,24.21,Stable
+Equatorial Guinea,Malabo,2026-05-01,25.58,Stable
+Equatorial Guinea,Malabo,2026-05-02,25.57,Stable
+Equatorial Guinea,Malabo,2026-05-03,25.56,Stable
+Equatorial Guinea,Malabo,2026-05-04,25.56,Stable
+Equatorial Guinea,Malabo,2026-05-05,25.55,Stable
+Equatorial Guinea,Malabo,2026-05-06,25.54,Stable
+Equatorial Guinea,Malabo,2026-05-07,25.54,Stable
+Eritrea,Asmara,2026-05-01,19.0,Stable
+Eritrea,Asmara,2026-05-02,18.99,Stable
+Eritrea,Asmara,2026-05-03,18.98,Stable
+Eritrea,Asmara,2026-05-04,18.97,Stable
+Eritrea,Asmara,2026-05-05,18.96,Stable
+Eritrea,Asmara,2026-05-06,18.95,Stable
+Eritrea,Asmara,2026-05-07,18.94,Stable
+Estonia,Tallinn,2026-05-01,0.15,Decreasing
+Estonia,Tallinn,2026-05-02,0.11,Decreasing
+Estonia,Tallinn,2026-05-03,0.07,Decreasing
+Estonia,Tallinn,2026-05-04,0.03,Decreasing
+Estonia,Tallinn,2026-05-05,-0.01,Decreasing
+Estonia,Tallinn,2026-05-06,-0.05,Decreasing
+Estonia,Tallinn,2026-05-07,-0.09,Decreasing
+Estonie,Tallinn,2024-07-14,23.3,Stable
+Estonie,Tallinn,2024-07-15,23.3,Stable
+Estonie,Tallinn,2024-07-16,23.3,Stable
+Estonie,Tallinn,2024-07-17,23.3,Stable
+Estonie,Tallinn,2024-07-18,23.3,Stable
+Estonie,Tallinn,2024-07-19,23.3,Stable
+Estonie,Tallinn,2024-07-20,23.3,Stable
+Ethiopia,Addis Ababa,2026-05-01,17.13,Stable
+Ethiopia,Addis Ababa,2026-05-02,17.12,Stable
+Ethiopia,Addis Ababa,2026-05-03,17.11,Stable
+Ethiopia,Addis Ababa,2026-05-04,17.1,Stable
+Ethiopia,Addis Ababa,2026-05-05,17.09,Stable
+Ethiopia,Addis Ababa,2026-05-06,17.07,Stable
+Ethiopia,Addis Ababa,2026-05-07,17.06,Stable
+Ethiopia,Addis Abeba,2024-06-26,19.8,Stable
+Ethiopia,Addis Abeba,2024-06-27,19.8,Stable
+Ethiopia,Addis Abeba,2024-06-28,19.8,Stable
+Ethiopia,Addis Abeba,2024-06-29,19.8,Stable
+Ethiopia,Addis Abeba,2024-06-30,19.8,Stable
+Ethiopia,Addis Abeba,2024-07-01,19.8,Stable
+Ethiopia,Addis Abeba,2024-07-02,19.8,Stable
+Fiji Islands,Suva,2026-05-01,27.44,Stable
+Fiji Islands,Suva,2026-05-02,27.45,Stable
+Fiji Islands,Suva,2026-05-03,27.46,Stable
+Fiji Islands,Suva,2026-05-04,27.47,Stable
+Fiji Islands,Suva,2026-05-05,27.48,Stable
+Fiji Islands,Suva,2026-05-06,27.49,Stable
+Fiji Islands,Suva,2026-05-07,27.5,Stable
+Finland,Helsinki,2026-05-01,-0.3,Decreasing
+Finland,Helsinki,2026-05-02,-0.34,Decreasing
+Finland,Helsinki,2026-05-03,-0.38,Decreasing
+Finland,Helsinki,2026-05-04,-0.43,Decreasing
+Finland,Helsinki,2026-05-05,-0.47,Decreasing
+Finland,Helsinki,2026-05-06,-0.51,Decreasing
+Finland,Helsinki,2026-05-07,-0.55,Decreasing
+France,Paris,2026-05-01,7.06,Stable
+France,Paris,2026-05-02,7.04,Stable
+France,Paris,2026-05-03,7.01,Stable
+France,Paris,2026-05-04,6.98,Stable
+France,Paris,2026-05-05,6.95,Stable
+France,Paris,2026-05-06,6.93,Stable
+France,Paris,2026-05-07,6.9,Stable
+Gabon,Libreville,2026-05-01,25.13,Stable
+Gabon,Libreville,2026-05-02,25.12,Stable
+Gabon,Libreville,2026-05-03,25.11,Stable
+Gabon,Libreville,2026-05-04,25.1,Stable
+Gabon,Libreville,2026-05-05,25.1,Stable
+Gabon,Libreville,2026-05-06,25.09,Stable
+Gabon,Libreville,2026-05-07,25.08,Stable
+Gambia,Banjul,2026-05-01,20.01,Stable
+Gambia,Banjul,2026-05-02,19.99,Stable
+Gambia,Banjul,2026-05-03,19.97,Stable
+Gambia,Banjul,2026-05-04,19.95,Stable
+Gambia,Banjul,2026-05-05,19.92,Stable
+Gambia,Banjul,2026-05-06,19.9,Stable
+Gambia,Banjul,2026-05-07,19.88,Stable
+Georgia,Tbilisi,2026-05-01,9.7,Decreasing
+Georgia,Tbilisi,2026-05-02,9.67,Decreasing
+Georgia,Tbilisi,2026-05-03,9.64,Decreasing
+Georgia,Tbilisi,2026-05-04,9.61,Decreasing
+Georgia,Tbilisi,2026-05-05,9.58,Decreasing
+Georgia,Tbilisi,2026-05-06,9.54,Decreasing
+Georgia,Tbilisi,2026-05-07,9.51,Decreasing
+Germany,Berlin,2026-05-01,2.87,Decreasing
+Germany,Berlin,2026-05-02,2.83,Decreasing
+Germany,Berlin,2026-05-03,2.78,Decreasing
+Germany,Berlin,2026-05-04,2.74,Decreasing
+Germany,Berlin,2026-05-05,2.7,Decreasing
+Germany,Berlin,2026-05-06,2.66,Decreasing
+Germany,Berlin,2026-05-07,2.62,Decreasing
+Ghana,Accra,2026-05-01,25.67,Stable
+Ghana,Accra,2026-05-02,25.66,Stable
+Ghana,Accra,2026-05-03,25.65,Stable
+Ghana,Accra,2026-05-04,25.64,Stable
+Ghana,Accra,2026-05-05,25.64,Stable
+Ghana,Accra,2026-05-06,25.63,Stable
+Ghana,Accra,2026-05-07,25.62,Stable
+Greece,Athens,2026-05-01,14.03,Decreasing
+Greece,Athens,2026-05-02,13.99,Decreasing
+Greece,Athens,2026-05-03,13.96,Decreasing
+Greece,Athens,2026-05-04,13.92,Decreasing
+Greece,Athens,2026-05-05,13.89,Decreasing
+Greece,Athens,2026-05-06,13.85,Decreasing
+Greece,Athens,2026-05-07,13.82,Decreasing
+Grenada,Saint George's,2026-05-01,25.88,Stable
+Grenada,Saint George's,2026-05-02,25.88,Stable
+Grenada,Saint George's,2026-05-03,25.87,Stable
+Grenada,Saint George's,2026-05-04,25.86,Stable
+Grenada,Saint George's,2026-05-05,25.86,Stable
+Grenada,Saint George's,2026-05-06,25.85,Stable
+Grenada,Saint George's,2026-05-07,25.85,Stable
+Guatemala,Guatemala City,2026-05-01,16.44,Stable
+Guatemala,Guatemala City,2026-05-02,16.44,Stable
+Guatemala,Guatemala City,2026-05-03,16.43,Stable
+Guatemala,Guatemala City,2026-05-04,16.43,Stable
+Guatemala,Guatemala City,2026-05-05,16.43,Stable
+Guatemala,Guatemala City,2026-05-06,16.42,Stable
+Guatemala,Guatemala City,2026-05-07,16.42,Stable
+Guinea,Conakry,2026-05-01,24.54,Stable
+Guinea,Conakry,2026-05-02,24.53,Stable
+Guinea,Conakry,2026-05-03,24.52,Stable
+Guinea,Conakry,2026-05-04,24.52,Stable
+Guinea,Conakry,2026-05-05,24.51,Stable
+Guinea,Conakry,2026-05-06,24.5,Stable
+Guinea,Conakry,2026-05-07,24.49,Stable
+Guinea-Bissau,Bissau,2026-05-01,20.67,Stable
+Guinea-Bissau,Bissau,2026-05-02,20.65,Stable
+Guinea-Bissau,Bissau,2026-05-03,20.63,Stable
+Guinea-Bissau,Bissau,2026-05-04,20.61,Stable
+Guinea-Bissau,Bissau,2026-05-05,20.59,Stable
+Guinea-Bissau,Bissau,2026-05-06,20.57,Stable
+Guinea-Bissau,Bissau,2026-05-07,20.55,Stable
+Guyana,Georgetown,2026-05-01,23.22,Stable
+Guyana,Georgetown,2026-05-02,23.21,Stable
+Guyana,Georgetown,2026-05-03,23.21,Stable
+Guyana,Georgetown,2026-05-04,23.2,Stable
+Guyana,Georgetown,2026-05-05,23.19,Stable
+Guyana,Georgetown,2026-05-06,23.19,Stable
+Guyana,Georgetown,2026-05-07,23.18,Stable
+Haiti,Port-Au-Prince,2026-05-01,17.59,Stable
+Haiti,Port-Au-Prince,2026-05-02,17.57,Stable
+Haiti,Port-Au-Prince,2026-05-03,17.55,Stable
+Haiti,Port-Au-Prince,2026-05-04,17.54,Stable
+Haiti,Port-Au-Prince,2026-05-05,17.52,Stable
+Haiti,Port-Au-Prince,2026-05-06,17.5,Stable
+Haiti,Port-Au-Prince,2026-05-07,17.48,Stable
+Honduras,Tegucigalpa,2026-05-01,19.16,Stable
+Honduras,Tegucigalpa,2026-05-02,19.16,Stable
+Honduras,Tegucigalpa,2026-05-03,19.16,Stable
+Honduras,Tegucigalpa,2026-05-04,19.16,Stable
+Honduras,Tegucigalpa,2026-05-05,19.16,Stable
+Honduras,Tegucigalpa,2026-05-06,19.16,Stable
+Honduras,Tegucigalpa,2026-05-07,19.16,Stable
+Hungary,Bogot,2026-05-01,11.45,Increasing
+Hungary,Bogot,2026-05-02,11.76,Increasing
+Hungary,Bogot,2026-05-03,12.07,Increasing
+Hungary,Bogot,2026-05-04,12.38,Increasing
+Hungary,Bogot,2026-05-05,12.69,Increasing
+Hungary,Bogot,2026-05-06,12.99,Increasing
+Hungary,Bogot,2026-05-07,13.3,Increasing
+Hungary,Budapest,2026-05-01,4.66,Decreasing
+Hungary,Budapest,2026-05-02,4.62,Decreasing
+Hungary,Budapest,2026-05-03,4.58,Decreasing
+Hungary,Budapest,2026-05-04,4.54,Decreasing
+Hungary,Budapest,2026-05-05,4.49,Decreasing
+Hungary,Budapest,2026-05-06,4.45,Decreasing
+Hungary,Budapest,2026-05-07,4.41,Decreasing
+Iceland,Grindavik,2024-06-20,10.7,Increasing
+Iceland,Grindavik,2024-06-21,10.85,Increasing
+Iceland,Grindavik,2024-06-22,10.99,Increasing
+Iceland,Grindavik,2024-06-23,11.13,Increasing
+Iceland,Grindavik,2024-06-24,11.27,Increasing
+Iceland,Grindavik,2024-06-25,11.42,Increasing
+Iceland,Grindavik,2024-06-26,11.56,Increasing
+Iceland,Reykjavik,2026-05-01,-0.02,Decreasing
+Iceland,Reykjavik,2026-05-02,-0.07,Decreasing
+Iceland,Reykjavik,2026-05-03,-0.11,Decreasing
+Iceland,Reykjavik,2026-05-04,-0.16,Decreasing
+Iceland,Reykjavik,2026-05-05,-0.2,Decreasing
+Iceland,Reykjavik,2026-05-06,-0.25,Decreasing
+Iceland,Reykjavik,2026-05-07,-0.3,Decreasing
+Iceland,Vestmannaeyjar,2025-08-21,7.42,Stable
+Iceland,Vestmannaeyjar,2025-08-22,7.43,Stable
+Iceland,Vestmannaeyjar,2025-08-23,7.43,Stable
+Iceland,Vestmannaeyjar,2025-08-24,7.44,Stable
+Iceland,Vestmannaeyjar,2025-08-25,7.45,Stable
+Iceland,Vestmannaeyjar,2025-08-26,7.46,Stable
+Iceland,Vestmannaeyjar,2025-08-27,7.46,Stable
+Inde,New Delhi,2024-07-14,31.2,Stable
+Inde,New Delhi,2024-07-15,31.2,Stable
+Inde,New Delhi,2024-07-16,31.2,Stable
+Inde,New Delhi,2024-07-17,31.2,Stable
+Inde,New Delhi,2024-07-18,31.2,Stable
+Inde,New Delhi,2024-07-19,31.2,Stable
+Inde,New Delhi,2024-07-20,31.2,Stable
+India,New Delhi,2026-05-01,25.9,Stable
+India,New Delhi,2026-05-02,25.88,Stable
+India,New Delhi,2026-05-03,25.86,Stable
+India,New Delhi,2026-05-04,25.84,Stable
+India,New Delhi,2026-05-05,25.82,Stable
+India,New Delhi,2026-05-06,25.8,Stable
+India,New Delhi,2026-05-07,25.78,Stable
+India,chandigarh,2024-05-17,40.0,Stable
+India,chandigarh,2024-05-18,40.0,Stable
+India,chandigarh,2024-05-19,40.0,Stable
+India,chandigarh,2024-05-20,40.0,Stable
+India,chandigarh,2024-05-21,40.0,Stable
+India,chandigarh,2024-05-22,40.0,Stable
+India,chandigarh,2024-05-23,40.0,Stable
+Indonesia,Bali,2024-06-26,29.3,Stable
+Indonesia,Bali,2024-06-27,29.3,Stable
+Indonesia,Bali,2024-06-28,29.3,Stable
+Indonesia,Bali,2024-06-29,29.3,Stable
+Indonesia,Bali,2024-06-30,29.3,Stable
+Indonesia,Bali,2024-07-01,29.3,Stable
+Indonesia,Bali,2024-07-02,29.3,Stable
+Indonesia,Jakarta,2026-05-01,31.16,Stable
+Indonesia,Jakarta,2026-05-02,31.17,Stable
+Indonesia,Jakarta,2026-05-03,31.17,Stable
+Indonesia,Jakarta,2026-05-04,31.18,Stable
+Indonesia,Jakarta,2026-05-05,31.18,Stable
+Indonesia,Jakarta,2026-05-06,31.19,Stable
+Indonesia,Jakarta,2026-05-07,31.19,Stable
+Indonesia,Laos,2026-05-01,29.52,Stable
+Indonesia,Laos,2026-05-02,29.54,Stable
+Indonesia,Laos,2026-05-03,29.55,Stable
+Indonesia,Laos,2026-05-04,29.57,Stable
+Indonesia,Laos,2026-05-05,29.58,Stable
+Indonesia,Laos,2026-05-06,29.6,Stable
+Indonesia,Laos,2026-05-07,29.61,Stable
+Indonesia,Surabaya,2024-06-26,27.7,Stable
+Indonesia,Surabaya,2024-06-27,27.7,Stable
+Indonesia,Surabaya,2024-06-28,27.7,Stable
+Indonesia,Surabaya,2024-06-29,27.7,Stable
+Indonesia,Surabaya,2024-06-30,27.7,Stable
+Indonesia,Surabaya,2024-07-01,27.7,Stable
+Indonesia,Surabaya,2024-07-02,27.7,Stable
+Iran,Chi Chi Khvar,2026-05-01,9.66,Decreasing
+Iran,Chi Chi Khvar,2026-05-02,9.63,Decreasing
+Iran,Chi Chi Khvar,2026-05-03,9.6,Decreasing
+Iran,Chi Chi Khvar,2026-05-04,9.57,Decreasing
+Iran,Chi Chi Khvar,2026-05-05,9.53,Decreasing
+Iran,Chi Chi Khvar,2026-05-06,9.5,Decreasing
+Iran,Chi Chi Khvar,2026-05-07,9.47,Decreasing
+Iran,Tehran,2026-05-01,14.52,Decreasing
+Iran,Tehran,2026-05-02,14.49,Decreasing
+Iran,Tehran,2026-05-03,14.46,Decreasing
+Iran,Tehran,2026-05-04,14.43,Decreasing
+Iran,Tehran,2026-05-05,14.39,Decreasing
+Iran,Tehran,2026-05-06,14.36,Decreasing
+Iran,Tehran,2026-05-07,14.33,Decreasing
+Iraq,Baghdad,2026-05-01,18.04,Decreasing
+Iraq,Baghdad,2026-05-02,17.99,Decreasing
+Iraq,Baghdad,2026-05-03,17.94,Decreasing
+Iraq,Baghdad,2026-05-04,17.9,Decreasing
+Iraq,Baghdad,2026-05-05,17.85,Decreasing
+Iraq,Baghdad,2026-05-06,17.8,Decreasing
+Iraq,Baghdad,2026-05-07,17.76,Decreasing
+Ireland,Dublin,2026-05-01,6.68,Stable
+Ireland,Dublin,2026-05-02,6.66,Stable
+Ireland,Dublin,2026-05-03,6.64,Stable
+Ireland,Dublin,2026-05-04,6.62,Stable
+Ireland,Dublin,2026-05-05,6.6,Stable
+Ireland,Dublin,2026-05-06,6.58,Stable
+Ireland,Dublin,2026-05-07,6.56,Stable
+Israel,Jerusalem,2026-05-01,17.92,Stable
+Israel,Jerusalem,2026-05-02,17.9,Stable
+Israel,Jerusalem,2026-05-03,17.88,Stable
+Israel,Jerusalem,2026-05-04,17.85,Stable
+Israel,Jerusalem,2026-05-05,17.83,Stable
+Israel,Jerusalem,2026-05-06,17.8,Stable
+Israel,Jerusalem,2026-05-07,17.78,Stable
+Italy,Rome,2026-05-01,9.86,Decreasing
+Italy,Rome,2026-05-02,9.82,Decreasing
+Italy,Rome,2026-05-03,9.78,Decreasing
+Italy,Rome,2026-05-04,9.74,Decreasing
+Italy,Rome,2026-05-05,9.71,Decreasing
+Italy,Rome,2026-05-06,9.67,Decreasing
+Italy,Rome,2026-05-07,9.63,Decreasing
+Jamaica,Kingston,2026-05-01,24.81,Stable
+Jamaica,Kingston,2026-05-02,24.79,Stable
+Jamaica,Kingston,2026-05-03,24.77,Stable
+Jamaica,Kingston,2026-05-04,24.76,Stable
+Jamaica,Kingston,2026-05-05,24.74,Stable
+Jamaica,Kingston,2026-05-06,24.72,Stable
+Jamaica,Kingston,2026-05-07,24.7,Stable
+Jamaica,Norman Gardens,2024-06-20,30.66,Increasing
+Jamaica,Norman Gardens,2024-06-21,30.7,Increasing
+Jamaica,Norman Gardens,2024-06-22,30.74,Increasing
+Jamaica,Norman Gardens,2024-06-23,30.78,Increasing
+Jamaica,Norman Gardens,2024-06-24,30.82,Increasing
+Jamaica,Norman Gardens,2024-06-25,30.86,Increasing
+Jamaica,Norman Gardens,2024-06-26,30.9,Increasing
+Jamaica,Port Royal,2025-08-21,25.79,Stable
+Jamaica,Port Royal,2025-08-22,25.78,Stable
+Jamaica,Port Royal,2025-08-23,25.77,Stable
+Jamaica,Port Royal,2025-08-24,25.76,Stable
+Jamaica,Port Royal,2025-08-25,25.75,Stable
+Jamaica,Port Royal,2025-08-26,25.74,Stable
+Jamaica,Port Royal,2025-08-27,25.73,Stable
+Japan,Tokyo,2026-05-01,17.17,Stable
+Japan,Tokyo,2026-05-02,17.16,Stable
+Japan,Tokyo,2026-05-03,17.15,Stable
+Japan,Tokyo,2026-05-04,17.14,Stable
+Japan,Tokyo,2026-05-05,17.12,Stable
+Japan,Tokyo,2026-05-06,17.11,Stable
+Japan,Tokyo,2026-05-07,17.1,Stable
+Jemen,Sanaa,2024-07-14,26.1,Stable
+Jemen,Sanaa,2024-07-15,26.1,Stable
+Jemen,Sanaa,2024-07-16,26.1,Stable
+Jemen,Sanaa,2024-07-17,26.1,Stable
+Jemen,Sanaa,2024-07-18,26.1,Stable
+Jemen,Sanaa,2024-07-19,26.1,Stable
+Jemen,Sanaa,2024-07-20,26.1,Stable
+Jordan,Amman,2026-05-01,13.33,Decreasing
+Jordan,Amman,2026-05-02,13.29,Decreasing
+Jordan,Amman,2026-05-03,13.25,Decreasing
+Jordan,Amman,2026-05-04,13.22,Decreasing
+Jordan,Amman,2026-05-05,13.18,Decreasing
+Jordan,Amman,2026-05-06,13.14,Decreasing
+Jordan,Amman,2026-05-07,13.11,Decreasing
+Kazakhstan,Astana,2026-05-01,0.7,Decreasing
+Kazakhstan,Astana,2026-05-02,0.67,Decreasing
+Kazakhstan,Astana,2026-05-03,0.63,Decreasing
+Kazakhstan,Astana,2026-05-04,0.6,Decreasing
+Kazakhstan,Astana,2026-05-05,0.56,Decreasing
+Kazakhstan,Astana,2026-05-06,0.53,Decreasing
+Kazakhstan,Astana,2026-05-07,0.49,Decreasing
+Kenya,Mombasa,2024-06-26,26.8,Stable
+Kenya,Mombasa,2024-06-27,26.8,Stable
+Kenya,Mombasa,2024-06-28,26.8,Stable
+Kenya,Mombasa,2024-06-29,26.8,Stable
+Kenya,Mombasa,2024-06-30,26.8,Stable
+Kenya,Mombasa,2024-07-01,26.8,Stable
+Kenya,Mombasa,2024-07-02,26.8,Stable
+Kenya,Nairobi,2026-05-01,18.8,Stable
+Kenya,Nairobi,2026-05-02,18.79,Stable
+Kenya,Nairobi,2026-05-03,18.78,Stable
+Kenya,Nairobi,2026-05-04,18.77,Stable
+Kenya,Nairobi,2026-05-05,18.75,Stable
+Kenya,Nairobi,2026-05-06,18.74,Stable
+Kenya,Nairobi,2026-05-07,18.73,Stable
+Kiribati,Tarawa,2026-05-01,27.93,Stable
+Kiribati,Tarawa,2026-05-02,27.93,Stable
+Kiribati,Tarawa,2026-05-03,27.93,Stable
+Kiribati,Tarawa,2026-05-04,27.93,Stable
+Kiribati,Tarawa,2026-05-05,27.93,Stable
+Kiribati,Tarawa,2026-05-06,27.93,Stable
+Kiribati,Tarawa,2026-05-07,27.93,Stable
+Komoren,Moroni,2024-07-14,25.2,Stable
+Komoren,Moroni,2024-07-15,25.2,Stable
+Komoren,Moroni,2024-07-16,25.2,Stable
+Komoren,Moroni,2024-07-17,25.2,Stable
+Komoren,Moroni,2024-07-18,25.2,Stable
+Komoren,Moroni,2024-07-19,25.2,Stable
+Komoren,Moroni,2024-07-20,25.2,Stable
+Kosovo,Pristina,2024-06-26,29.3,Stable
+Kosovo,Pristina,2024-06-27,29.3,Stable
+Kosovo,Pristina,2024-06-28,29.3,Stable
+Kosovo,Pristina,2024-06-29,29.3,Stable
+Kosovo,Pristina,2024-06-30,29.3,Stable
+Kosovo,Pristina,2024-07-01,29.3,Stable
+Kosovo,Pristina,2024-07-02,29.3,Stable
+Kuwait,Kuwait,2024-07-14,44.4,Stable
+Kuwait,Kuwait,2024-07-15,44.4,Stable
+Kuwait,Kuwait,2024-07-16,44.4,Stable
+Kuwait,Kuwait,2024-07-17,44.4,Stable
+Kuwait,Kuwait,2024-07-18,44.4,Stable
+Kuwait,Kuwait,2024-07-19,44.4,Stable
+Kuwait,Kuwait,2024-07-20,44.4,Stable
+Kuwait,Kuwait City,2026-05-01,22.45,Decreasing
+Kuwait,Kuwait City,2026-05-02,22.41,Decreasing
+Kuwait,Kuwait City,2026-05-03,22.37,Decreasing
+Kuwait,Kuwait City,2026-05-04,22.34,Decreasing
+Kuwait,Kuwait City,2026-05-05,22.3,Decreasing
+Kuwait,Kuwait City,2026-05-06,22.26,Decreasing
+Kuwait,Kuwait City,2026-05-07,22.22,Decreasing
+Kyrghyzstan,Bishkek,2026-05-01,13.97,Stable
+Kyrghyzstan,Bishkek,2026-05-02,13.96,Stable
+Kyrghyzstan,Bishkek,2026-05-03,13.95,Stable
+Kyrghyzstan,Bishkek,2026-05-04,13.93,Stable
+Kyrghyzstan,Bishkek,2026-05-05,13.92,Stable
+Kyrghyzstan,Bishkek,2026-05-06,13.9,Stable
+Kyrghyzstan,Bishkek,2026-05-07,13.89,Stable
+Lao People's Democratic Republic,Vientiane,2024-06-26,25.0,Stable
+Lao People's Democratic Republic,Vientiane,2024-06-27,25.0,Stable
+Lao People's Democratic Republic,Vientiane,2024-06-28,25.0,Stable
+Lao People's Democratic Republic,Vientiane,2024-06-29,25.0,Stable
+Lao People's Democratic Republic,Vientiane,2024-06-30,25.0,Stable
+Lao People's Democratic Republic,Vientiane,2024-07-01,25.0,Stable
+Lao People's Democratic Republic,Vientiane,2024-07-02,25.0,Stable
+Latvia,Riga,2026-05-01,-0.25,Decreasing
+Latvia,Riga,2026-05-02,-0.3,Decreasing
+Latvia,Riga,2026-05-03,-0.34,Decreasing
+Latvia,Riga,2026-05-04,-0.39,Decreasing
+Latvia,Riga,2026-05-05,-0.43,Decreasing
+Latvia,Riga,2026-05-06,-0.48,Decreasing
+Latvia,Riga,2026-05-07,-0.53,Decreasing
+Lebanon,Beirut,2026-05-01,18.75,Stable
+Lebanon,Beirut,2026-05-02,18.73,Stable
+Lebanon,Beirut,2026-05-03,18.71,Stable
+Lebanon,Beirut,2026-05-04,18.69,Stable
+Lebanon,Beirut,2026-05-05,18.67,Stable
+Lebanon,Beirut,2026-05-06,18.65,Stable
+Lebanon,Beirut,2026-05-07,18.63,Stable
+Lesotho,Maseru,2026-05-01,17.13,Stable
+Lesotho,Maseru,2026-05-02,17.12,Stable
+Lesotho,Maseru,2026-05-03,17.11,Stable
+Lesotho,Maseru,2026-05-04,17.1,Stable
+Lesotho,Maseru,2026-05-05,17.09,Stable
+Lesotho,Maseru,2026-05-06,17.08,Stable
+Lesotho,Maseru,2026-05-07,17.07,Stable
+Letonia,Riga,2024-07-14,20.6,Stable
+Letonia,Riga,2024-07-15,20.6,Stable
+Letonia,Riga,2024-07-16,20.6,Stable
+Letonia,Riga,2024-07-17,20.6,Stable
+Letonia,Riga,2024-07-18,20.6,Stable
+Letonia,Riga,2024-07-19,20.6,Stable
+Letonia,Riga,2024-07-20,20.6,Stable
+Liberia,Monrovia,2026-05-01,23.68,Stable
+Liberia,Monrovia,2026-05-02,23.67,Stable
+Liberia,Monrovia,2026-05-03,23.66,Stable
+Liberia,Monrovia,2026-05-04,23.65,Stable
+Liberia,Monrovia,2026-05-05,23.64,Stable
+Liberia,Monrovia,2026-05-06,23.63,Stable
+Liberia,Monrovia,2026-05-07,23.62,Stable
+Libya,Tripoli,2024-06-26,27.0,Stable
+Libya,Tripoli,2024-06-27,27.0,Stable
+Libya,Tripoli,2024-06-28,27.0,Stable
+Libya,Tripoli,2024-06-29,27.0,Stable
+Libya,Tripoli,2024-06-30,27.0,Stable
+Libya,Tripoli,2024-07-01,27.0,Stable
+Libya,Tripoli,2024-07-02,27.0,Stable
+Liechtenstein,Vaduz,2026-05-01,3.17,Decreasing
+Liechtenstein,Vaduz,2026-05-02,3.13,Decreasing
+Liechtenstein,Vaduz,2026-05-03,3.1,Decreasing
+Liechtenstein,Vaduz,2026-05-04,3.07,Decreasing
+Liechtenstein,Vaduz,2026-05-05,3.04,Decreasing
+Liechtenstein,Vaduz,2026-05-06,3.01,Decreasing
+Liechtenstein,Vaduz,2026-05-07,2.98,Decreasing
+Lithuania,Vilnius,2026-05-01,-0.67,Decreasing
+Lithuania,Vilnius,2026-05-02,-0.72,Decreasing
+Lithuania,Vilnius,2026-05-03,-0.77,Decreasing
+Lithuania,Vilnius,2026-05-04,-0.81,Decreasing
+Lithuania,Vilnius,2026-05-05,-0.86,Decreasing
+Lithuania,Vilnius,2026-05-06,-0.91,Decreasing
+Lithuania,Vilnius,2026-05-07,-0.95,Decreasing
+Luxembourg,Luxembourg,2026-05-01,4.63,Stable
+Luxembourg,Luxembourg,2026-05-02,4.6,Stable
+Luxembourg,Luxembourg,2026-05-03,4.58,Stable
+Luxembourg,Luxembourg,2026-05-04,4.55,Stable
+Luxembourg,Luxembourg,2026-05-05,4.52,Stable
+Luxembourg,Luxembourg,2026-05-06,4.49,Stable
+Luxembourg,Luxembourg,2026-05-07,4.46,Stable
+Macedonia,Skopje,2026-05-01,5.4,Decreasing
+Macedonia,Skopje,2026-05-02,5.35,Decreasing
+Macedonia,Skopje,2026-05-03,5.3,Decreasing
+Macedonia,Skopje,2026-05-04,5.25,Decreasing
+Macedonia,Skopje,2026-05-05,5.2,Decreasing
+Macedonia,Skopje,2026-05-06,5.15,Decreasing
+Macedonia,Skopje,2026-05-07,5.1,Decreasing
+Madagascar,Antananarivo,2026-05-01,23.12,Stable
+Madagascar,Antananarivo,2026-05-02,23.12,Stable
+Madagascar,Antananarivo,2026-05-03,23.12,Stable
+Madagascar,Antananarivo,2026-05-04,23.11,Stable
+Madagascar,Antananarivo,2026-05-05,23.11,Stable
+Madagascar,Antananarivo,2026-05-06,23.1,Stable
+Madagascar,Antananarivo,2026-05-07,23.1,Stable
+Madagascar,Ivory,2025-08-21,27.24,Stable
+Madagascar,Ivory,2025-08-22,27.23,Stable
+Madagascar,Ivory,2025-08-23,27.22,Stable
+Madagascar,Ivory,2025-08-24,27.21,Stable
+Madagascar,Ivory,2025-08-25,27.2,Stable
+Madagascar,Ivory,2025-08-26,27.19,Stable
+Madagascar,Ivory,2025-08-27,27.19,Stable
+Malawi,Lilongwe,2026-05-01,21.08,Stable
+Malawi,Lilongwe,2026-05-02,21.07,Stable
+Malawi,Lilongwe,2026-05-03,21.05,Stable
+Malawi,Lilongwe,2026-05-04,21.04,Stable
+Malawi,Lilongwe,2026-05-05,21.02,Stable
+Malawi,Lilongwe,2026-05-06,21.01,Stable
+Malawi,Lilongwe,2026-05-07,21.0,Stable
+Malaysia,Kuala Lumpur,2026-05-01,33.33,Stable
+Malaysia,Kuala Lumpur,2026-05-02,33.35,Stable
+Malaysia,Kuala Lumpur,2026-05-03,33.36,Stable
+Malaysia,Kuala Lumpur,2026-05-04,33.37,Stable
+Malaysia,Kuala Lumpur,2026-05-05,33.39,Stable
+Malaysia,Kuala Lumpur,2026-05-06,33.4,Stable
+Malaysia,Kuala Lumpur,2026-05-07,33.41,Stable
+Maldives,Dhidhdhoo,2026-05-01,27.68,Stable
+Maldives,Dhidhdhoo,2026-05-02,27.68,Stable
+Maldives,Dhidhdhoo,2026-05-03,27.68,Stable
+Maldives,Dhidhdhoo,2026-05-04,27.68,Stable
+Maldives,Dhidhdhoo,2026-05-05,27.68,Stable
+Maldives,Dhidhdhoo,2026-05-06,27.68,Stable
+Maldives,Dhidhdhoo,2026-05-07,27.68,Stable
+Maldives,Felidhoo,2024-06-18,28.51,Stable
+Maldives,Felidhoo,2024-06-19,28.48,Stable
+Maldives,Felidhoo,2024-06-20,28.46,Stable
+Maldives,Felidhoo,2024-06-21,28.43,Stable
+Maldives,Felidhoo,2024-06-22,28.4,Stable
+Maldives,Felidhoo,2024-06-23,28.37,Stable
+Maldives,Felidhoo,2024-06-24,28.35,Stable
+Maldives,Male,2024-06-26,28.8,Stable
+Maldives,Male,2024-06-27,28.8,Stable
+Maldives,Male,2024-06-28,28.8,Stable
+Maldives,Male,2024-06-29,28.8,Stable
+Maldives,Male,2024-06-30,28.8,Stable
+Maldives,Male,2024-07-01,28.8,Stable
+Maldives,Male,2024-07-02,28.8,Stable
+Mali,Bamako,2026-05-01,21.56,Stable
+Mali,Bamako,2026-05-02,21.54,Stable
+Mali,Bamako,2026-05-03,21.52,Stable
+Mali,Bamako,2026-05-04,21.5,Stable
+Mali,Bamako,2026-05-05,21.47,Stable
+Mali,Bamako,2026-05-06,21.45,Stable
+Mali,Bamako,2026-05-07,21.43,Stable
+Malta,Valletta,2026-05-01,15.47,Stable
+Malta,Valletta,2026-05-02,15.44,Stable
+Malta,Valletta,2026-05-03,15.41,Stable
+Malta,Valletta,2026-05-04,15.38,Stable
+Malta,Valletta,2026-05-05,15.35,Stable
+Malta,Valletta,2026-05-06,15.32,Stable
+Malta,Valletta,2026-05-07,15.29,Stable
+MalÃ¡sia,Ivory Ivory Ban,2024-07-14,24.3,Stable
+MalÃ¡sia,Ivory Ivory Ban,2024-07-15,24.3,Stable
+MalÃ¡sia,Ivory Ivory Ban,2024-07-16,24.3,Stable
+MalÃ¡sia,Ivory Ivory Ban,2024-07-17,24.3,Stable
+MalÃ¡sia,Ivory Ivory Ban,2024-07-18,24.3,Stable
+MalÃ¡sia,Ivory Ivory Ban,2024-07-19,24.3,Stable
+MalÃ¡sia,Ivory Ivory Ban,2024-07-20,24.3,Stable
+Marrocos,Morocco City,2024-07-14,40.3,Stable
+Marrocos,Morocco City,2024-07-15,40.3,Stable
+Marrocos,Morocco City,2024-07-16,40.3,Stable
+Marrocos,Morocco City,2024-07-17,40.3,Stable
+Marrocos,Morocco City,2024-07-18,40.3,Stable
+Marrocos,Morocco City,2024-07-19,40.3,Stable
+Marrocos,Morocco City,2024-07-20,40.3,Stable
+Marshall Islands,Majuro,2026-05-01,28.22,Stable
+Marshall Islands,Majuro,2026-05-02,28.22,Stable
+Marshall Islands,Majuro,2026-05-03,28.22,Stable
+Marshall Islands,Majuro,2026-05-04,28.22,Stable
+Marshall Islands,Majuro,2026-05-05,28.22,Stable
+Marshall Islands,Majuro,2026-05-06,28.22,Stable
+Marshall Islands,Majuro,2026-05-07,28.22,Stable
+Mauritania,Nouakchott,2026-05-01,19.66,Stable
+Mauritania,Nouakchott,2026-05-02,19.65,Stable
+Mauritania,Nouakchott,2026-05-03,19.63,Stable
+Mauritania,Nouakchott,2026-05-04,19.61,Stable
+Mauritania,Nouakchott,2026-05-05,19.59,Stable
+Mauritania,Nouakchott,2026-05-06,19.58,Stable
+Mauritania,Nouakchott,2026-05-07,19.56,Stable
+Mauritius,Port Louis,2026-05-01,28.69,Stable
+Mauritius,Port Louis,2026-05-02,28.7,Stable
+Mauritius,Port Louis,2026-05-03,28.71,Stable
+Mauritius,Port Louis,2026-05-04,28.72,Stable
+Mauritius,Port Louis,2026-05-05,28.72,Stable
+Mauritius,Port Louis,2026-05-06,28.73,Stable
+Mauritius,Port Louis,2026-05-07,28.74,Stable
+Mexico,Mexico City,2026-05-01,14.5,Stable
+Mexico,Mexico City,2026-05-02,14.5,Stable
+Mexico,Mexico City,2026-05-03,14.5,Stable
+Mexico,Mexico City,2026-05-04,14.5,Stable
+Mexico,Mexico City,2026-05-05,14.5,Stable
+Mexico,Mexico City,2026-05-06,14.5,Stable
+Mexico,Mexico City,2026-05-07,14.5,Stable
+Mexique,Mexico (Grupo Mexico),2024-07-14,27.4,Stable
+Mexique,Mexico (Grupo Mexico),2024-07-15,27.4,Stable
+Mexique,Mexico (Grupo Mexico),2024-07-16,27.4,Stable
+Mexique,Mexico (Grupo Mexico),2024-07-17,27.4,Stable
+Mexique,Mexico (Grupo Mexico),2024-07-18,27.4,Stable
+Mexique,Mexico (Grupo Mexico),2024-07-19,27.4,Stable
+Mexique,Mexico (Grupo Mexico),2024-07-20,27.4,Stable
+Micronesia,Palikir,2026-05-01,29.45,Stable
+Micronesia,Palikir,2026-05-02,29.46,Stable
+Micronesia,Palikir,2026-05-03,29.47,Stable
+Micronesia,Palikir,2026-05-04,29.47,Stable
+Micronesia,Palikir,2026-05-05,29.48,Stable
+Micronesia,Palikir,2026-05-06,29.48,Stable
+Micronesia,Palikir,2026-05-07,29.49,Stable
+Monaco,Monaco,2026-05-01,12.37,Stable
+Monaco,Monaco,2026-05-02,12.34,Stable
+Monaco,Monaco,2026-05-03,12.32,Stable
+Monaco,Monaco,2026-05-04,12.29,Stable
+Monaco,Monaco,2026-05-05,12.27,Stable
+Monaco,Monaco,2026-05-06,12.24,Stable
+Monaco,Monaco,2026-05-07,12.22,Stable
+Mongolia,Ulaanbaatar,2026-05-01,-2.28,Stable
+Mongolia,Ulaanbaatar,2026-05-02,-2.31,Stable
+Mongolia,Ulaanbaatar,2026-05-03,-2.34,Stable
+Mongolia,Ulaanbaatar,2026-05-04,-2.36,Stable
+Mongolia,Ulaanbaatar,2026-05-05,-2.39,Stable
+Mongolia,Ulaanbaatar,2026-05-06,-2.42,Stable
+Mongolia,Ulaanbaatar,2026-05-07,-2.44,Stable
+Montenegro,Podgorica,2026-05-01,9.85,Decreasing
+Montenegro,Podgorica,2026-05-02,9.81,Decreasing
+Montenegro,Podgorica,2026-05-03,9.77,Decreasing
+Montenegro,Podgorica,2026-05-04,9.73,Decreasing
+Montenegro,Podgorica,2026-05-05,9.69,Decreasing
+Montenegro,Podgorica,2026-05-06,9.66,Decreasing
+Montenegro,Podgorica,2026-05-07,9.62,Decreasing
+Morocco,Rabat,2026-05-01,12.33,Stable
+Morocco,Rabat,2026-05-02,12.3,Stable
+Morocco,Rabat,2026-05-03,12.27,Stable
+Morocco,Rabat,2026-05-04,12.24,Stable
+Morocco,Rabat,2026-05-05,12.21,Stable
+Morocco,Rabat,2026-05-06,12.19,Stable
+Morocco,Rabat,2026-05-07,12.16,Stable
+Mozambique,Maputo,2026-05-01,23.78,Stable
+Mozambique,Maputo,2026-05-02,23.77,Stable
+Mozambique,Maputo,2026-05-03,23.76,Stable
+Mozambique,Maputo,2026-05-04,23.75,Stable
+Mozambique,Maputo,2026-05-05,23.74,Stable
+Mozambique,Maputo,2026-05-06,23.73,Stable
+Mozambique,Maputo,2026-05-07,23.73,Stable
+Myanmar,Pathein,2024-05-31,25.44,Decreasing
+Myanmar,Pathein,2024-06-01,25.04,Decreasing
+Myanmar,Pathein,2024-06-02,24.64,Decreasing
+Myanmar,Pathein,2024-06-03,24.25,Decreasing
+Myanmar,Pathein,2024-06-04,23.85,Decreasing
+Myanmar,Pathein,2024-06-05,23.46,Decreasing
+Myanmar,Pathein,2024-06-06,23.06,Decreasing
+Myanmar,Rangoon,2026-05-01,35.19,Increasing
+Myanmar,Rangoon,2026-05-02,35.23,Increasing
+Myanmar,Rangoon,2026-05-03,35.27,Increasing
+Myanmar,Rangoon,2026-05-04,35.31,Increasing
+Myanmar,Rangoon,2026-05-05,35.35,Increasing
+Myanmar,Rangoon,2026-05-06,35.39,Increasing
+Myanmar,Rangoon,2026-05-07,35.43,Increasing
+Myanmar,Yangon,2025-08-21,32.69,Stable
+Myanmar,Yangon,2025-08-22,32.7,Stable
+Myanmar,Yangon,2025-08-23,32.72,Stable
+Myanmar,Yangon,2025-08-24,32.74,Stable
+Myanmar,Yangon,2025-08-25,32.75,Stable
+Myanmar,Yangon,2025-08-26,32.77,Stable
+Myanmar,Yangon,2025-08-27,32.79,Stable
+Namibia,Windhoek,2026-05-01,17.43,Stable
+Namibia,Windhoek,2026-05-02,17.41,Stable
+Namibia,Windhoek,2026-05-03,17.39,Stable
+Namibia,Windhoek,2026-05-04,17.36,Stable
+Namibia,Windhoek,2026-05-05,17.34,Stable
+Namibia,Windhoek,2026-05-06,17.32,Stable
+Namibia,Windhoek,2026-05-07,17.3,Stable
+Nepal,Kathmandu,2026-05-01,22.77,Stable
+Nepal,Kathmandu,2026-05-02,22.77,Stable
+Nepal,Kathmandu,2026-05-03,22.77,Stable
+Nepal,Kathmandu,2026-05-04,22.77,Stable
+Nepal,Kathmandu,2026-05-05,22.76,Stable
+Nepal,Kathmandu,2026-05-06,22.76,Stable
+Nepal,Kathmandu,2026-05-07,22.76,Stable
+Netherlands,Amsterdam,2026-05-01,6.56,Stable
+Netherlands,Amsterdam,2026-05-02,6.53,Stable
+Netherlands,Amsterdam,2026-05-03,6.5,Stable
+Netherlands,Amsterdam,2026-05-04,6.48,Stable
+Netherlands,Amsterdam,2026-05-05,6.45,Stable
+Netherlands,Amsterdam,2026-05-06,6.42,Stable
+Netherlands,Amsterdam,2026-05-07,6.4,Stable
+New Zealand,Wellington,2026-05-01,16.75,Stable
+New Zealand,Wellington,2026-05-02,16.76,Stable
+New Zealand,Wellington,2026-05-03,16.77,Stable
+New Zealand,Wellington,2026-05-04,16.78,Stable
+New Zealand,Wellington,2026-05-05,16.8,Stable
+New Zealand,Wellington,2026-05-06,16.81,Stable
+New Zealand,Wellington,2026-05-07,16.82,Stable
+Nicaragua,Managua,2026-05-01,24.23,Stable
+Nicaragua,Managua,2026-05-02,24.23,Stable
+Nicaragua,Managua,2026-05-03,24.23,Stable
+Nicaragua,Managua,2026-05-04,24.23,Stable
+Nicaragua,Managua,2026-05-05,24.23,Stable
+Nicaragua,Managua,2026-05-06,24.23,Stable
+Nicaragua,Managua,2026-05-07,24.23,Stable
+Niger,Niamey,2026-05-01,23.4,Stable
+Niger,Niamey,2026-05-02,23.37,Stable
+Niger,Niamey,2026-05-03,23.34,Stable
+Niger,Niamey,2026-05-04,23.32,Stable
+Niger,Niamey,2026-05-05,23.29,Stable
+Niger,Niamey,2026-05-06,23.27,Stable
+Niger,Niamey,2026-05-07,23.24,Stable
+Nigeria,Abuja,2026-05-01,23.6,Stable
+Nigeria,Abuja,2026-05-02,23.58,Stable
+Nigeria,Abuja,2026-05-03,23.57,Stable
+Nigeria,Abuja,2026-05-04,23.55,Stable
+Nigeria,Abuja,2026-05-05,23.53,Stable
+Nigeria,Abuja,2026-05-06,23.52,Stable
+Nigeria,Abuja,2026-05-07,23.5,Stable
+North Korea,Pyongyang,2026-05-01,11.32,Stable
+North Korea,Pyongyang,2026-05-02,11.3,Stable
+North Korea,Pyongyang,2026-05-03,11.29,Stable
+North Korea,Pyongyang,2026-05-04,11.28,Stable
+North Korea,Pyongyang,2026-05-05,11.27,Stable
+North Korea,Pyongyang,2026-05-06,11.25,Stable
+North Korea,Pyongyang,2026-05-07,11.24,Stable
+Norway,Oslo,2026-05-01,3.63,Stable
+Norway,Oslo,2026-05-02,3.61,Stable
+Norway,Oslo,2026-05-03,3.59,Stable
+Norway,Oslo,2026-05-04,3.57,Stable
+Norway,Oslo,2026-05-05,3.54,Stable
+Norway,Oslo,2026-05-06,3.52,Stable
+Norway,Oslo,2026-05-07,3.5,Stable
+Oman,Muscat,2026-05-01,29.63,Stable
+Oman,Muscat,2026-05-02,29.62,Stable
+Oman,Muscat,2026-05-03,29.61,Stable
+Oman,Muscat,2026-05-04,29.61,Stable
+Oman,Muscat,2026-05-05,29.6,Stable
+Oman,Muscat,2026-05-06,29.59,Stable
+Oman,Muscat,2026-05-07,29.58,Stable
+Pakistan,Islamabad,2026-05-01,24.03,Stable
+Pakistan,Islamabad,2026-05-02,24.01,Stable
+Pakistan,Islamabad,2026-05-03,23.99,Stable
+Pakistan,Islamabad,2026-05-04,23.97,Stable
+Pakistan,Islamabad,2026-05-05,23.95,Stable
+Pakistan,Islamabad,2026-05-06,23.93,Stable
+Pakistan,Islamabad,2026-05-07,23.91,Stable
+Palau,Adkip,2024-06-20,26.88,Stable
+Palau,Adkip,2024-06-21,26.87,Stable
+Palau,Adkip,2024-06-22,26.85,Stable
+Palau,Adkip,2024-06-23,26.84,Stable
+Palau,Adkip,2024-06-24,26.83,Stable
+Palau,Adkip,2024-06-25,26.81,Stable
+Palau,Adkip,2024-06-26,26.8,Stable
+Palau,Airai,2025-08-21,28.54,Stable
+Palau,Airai,2025-08-22,28.55,Stable
+Palau,Airai,2025-08-23,28.55,Stable
+Palau,Airai,2025-08-24,28.55,Stable
+Palau,Airai,2025-08-25,28.56,Stable
+Palau,Airai,2025-08-26,28.56,Stable
+Palau,Airai,2025-08-27,28.57,Stable
+Palau,Koror,2026-05-01,30.53,Stable
+Palau,Koror,2026-05-02,30.55,Stable
+Palau,Koror,2026-05-03,30.57,Stable
+Palau,Koror,2026-05-04,30.58,Stable
+Palau,Koror,2026-05-05,30.6,Stable
+Palau,Koror,2026-05-06,30.62,Stable
+Palau,Koror,2026-05-07,30.63,Stable
+Palau,Meyungs,2024-05-31,25.92,Decreasing
+Palau,Meyungs,2024-06-01,25.8,Decreasing
+Palau,Meyungs,2024-06-02,25.67,Decreasing
+Palau,Meyungs,2024-06-03,25.55,Decreasing
+Palau,Meyungs,2024-06-04,25.42,Decreasing
+Palau,Meyungs,2024-06-05,25.29,Decreasing
+Palau,Meyungs,2024-06-06,25.17,Decreasing
+Panama,Panama City,2026-05-01,24.76,Stable
+Panama,Panama City,2026-05-02,24.75,Stable
+Panama,Panama City,2026-05-03,24.75,Stable
+Panama,Panama City,2026-05-04,24.75,Stable
+Panama,Panama City,2026-05-05,24.74,Stable
+Panama,Panama City,2026-05-06,24.74,Stable
+Panama,Panama City,2026-05-07,24.74,Stable
+Papua New Guinea,Port Moresby,2026-05-01,28.15,Stable
+Papua New Guinea,Port Moresby,2026-05-02,28.16,Stable
+Papua New Guinea,Port Moresby,2026-05-03,28.17,Stable
+Papua New Guinea,Port Moresby,2026-05-04,28.17,Stable
+Papua New Guinea,Port Moresby,2026-05-05,28.18,Stable
+Papua New Guinea,Port Moresby,2026-05-06,28.18,Stable
+Papua New Guinea,Port Moresby,2026-05-07,28.19,Stable
+Paraguay,Aguaray,2026-04-27,24.16,Stable
+Paraguay,Aguaray,2026-04-28,24.18,Stable
+Paraguay,Aguaray,2026-04-29,24.19,Stable
+Paraguay,Aguaray,2026-04-30,24.21,Stable
+Paraguay,Aguaray,2026-05-01,24.22,Stable
+Paraguay,Aguaray,2026-05-02,24.24,Stable
+Paraguay,Aguaray,2026-05-03,24.26,Stable
+Paraguay,Asuncion,2024-06-26,13.7,Stable
+Paraguay,Asuncion,2024-06-27,13.7,Stable
+Paraguay,Asuncion,2024-06-28,13.7,Stable
+Paraguay,Asuncion,2024-06-29,13.7,Stable
+Paraguay,Asuncion,2024-06-30,13.7,Stable
+Paraguay,Asuncion,2024-07-01,13.7,Stable
+Paraguay,Asuncion,2024-07-02,13.7,Stable
+Paraguay,Aurora,2025-08-21,17.71,Stable
+Paraguay,Aurora,2025-08-22,17.69,Stable
+Paraguay,Aurora,2025-08-23,17.67,Stable
+Paraguay,Aurora,2025-08-24,17.65,Stable
+Paraguay,Aurora,2025-08-25,17.64,Stable
+Paraguay,Aurora,2025-08-26,17.62,Stable
+Paraguay,Aurora,2025-08-27,17.6,Stable
+Paraguay,Carreria,2026-04-28,22.46,Decreasing
+Paraguay,Carreria,2026-04-29,21.84,Decreasing
+Paraguay,Carreria,2026-04-30,21.22,Decreasing
+Paraguay,Carreria,2026-05-01,20.59,Decreasing
+Paraguay,Carreria,2026-05-02,19.97,Decreasing
+Paraguay,Carreria,2026-05-03,19.35,Decreasing
+Paraguay,Carreria,2026-05-04,18.73,Decreasing
+Paraguay,Garrapata,2026-05-01,24.11,Increasing
+Paraguay,Garrapata,2026-05-02,24.22,Increasing
+Paraguay,Garrapata,2026-05-03,24.33,Increasing
+Paraguay,Garrapata,2026-05-04,24.44,Increasing
+Paraguay,Garrapata,2026-05-05,24.55,Increasing
+Paraguay,Garrapata,2026-05-06,24.66,Increasing
+Paraguay,Garrapata,2026-05-07,24.77,Increasing
+Paraguay,Pasto,2024-06-20,22.65,Increasing
+Paraguay,Pasto,2024-06-21,22.87,Increasing
+Paraguay,Pasto,2024-06-22,23.09,Increasing
+Paraguay,Pasto,2024-06-23,23.31,Increasing
+Paraguay,Pasto,2024-06-24,23.52,Increasing
+Paraguay,Pasto,2024-06-25,23.74,Increasing
+Paraguay,Pasto,2024-06-26,23.96,Increasing
+Paraguay,Sartorio,2026-04-18,22.85,Decreasing
+Paraguay,Sartorio,2026-04-19,22.71,Decreasing
+Paraguay,Sartorio,2026-04-20,22.57,Decreasing
+Paraguay,Sartorio,2026-04-21,22.44,Decreasing
+Paraguay,Sartorio,2026-04-22,22.3,Decreasing
+Paraguay,Sartorio,2026-04-23,22.16,Decreasing
+Paraguay,Sartorio,2026-04-24,22.02,Decreasing
+Peru,Lima,2026-05-01,19.98,Stable
+Peru,Lima,2026-05-02,19.99,Stable
+Peru,Lima,2026-05-03,20.0,Stable
+Peru,Lima,2026-05-04,20.01,Stable
+Peru,Lima,2026-05-05,20.02,Stable
+Peru,Lima,2026-05-06,20.03,Stable
+Peru,Lima,2026-05-07,20.04,Stable
+Philippines,Kiyabo,2024-07-14,30.3,Stable
+Philippines,Kiyabo,2024-07-15,30.3,Stable
+Philippines,Kiyabo,2024-07-16,30.3,Stable
+Philippines,Kiyabo,2024-07-17,30.3,Stable
+Philippines,Kiyabo,2024-07-18,30.3,Stable
+Philippines,Kiyabo,2024-07-19,30.3,Stable
+Philippines,Kiyabo,2024-07-20,30.3,Stable
+Philippines,Manila,2026-05-01,31.75,Stable
+Philippines,Manila,2026-05-02,31.76,Stable
+Philippines,Manila,2026-05-03,31.77,Stable
+Philippines,Manila,2026-05-04,31.77,Stable
+Philippines,Manila,2026-05-05,31.78,Stable
+Philippines,Manila,2026-05-06,31.79,Stable
+Philippines,Manila,2026-05-07,31.79,Stable
+Poland,Warsaw,2026-05-01,1.56,Decreasing
+Poland,Warsaw,2026-05-02,1.52,Decreasing
+Poland,Warsaw,2026-05-03,1.47,Decreasing
+Poland,Warsaw,2026-05-04,1.42,Decreasing
+Poland,Warsaw,2026-05-05,1.38,Decreasing
+Poland,Warsaw,2026-05-06,1.33,Decreasing
+Poland,Warsaw,2026-05-07,1.28,Decreasing
+PolÃ´nia,Moldova,2024-07-14,27.7,Stable
+PolÃ´nia,Moldova,2024-07-15,27.7,Stable
+PolÃ´nia,Moldova,2024-07-16,27.7,Stable
+PolÃ´nia,Moldova,2024-07-17,27.7,Stable
+PolÃ´nia,Moldova,2024-07-18,27.7,Stable
+PolÃ´nia,Moldova,2024-07-19,27.7,Stable
+PolÃ´nia,Moldova,2024-07-20,27.7,Stable
+Portugal,Lisbon,2026-05-01,11.48,Stable
+Portugal,Lisbon,2026-05-02,11.46,Stable
+Portugal,Lisbon,2026-05-03,11.43,Stable
+Portugal,Lisbon,2026-05-04,11.41,Stable
+Portugal,Lisbon,2026-05-05,11.38,Stable
+Portugal,Lisbon,2026-05-06,11.36,Stable
+Portugal,Lisbon,2026-05-07,11.34,Stable
+Qatar,Doha,2026-05-01,27.02,Stable
+Qatar,Doha,2026-05-02,27.0,Stable
+Qatar,Doha,2026-05-03,26.98,Stable
+Qatar,Doha,2026-05-04,26.95,Stable
+Qatar,Doha,2026-05-05,26.93,Stable
+Qatar,Doha,2026-05-06,26.9,Stable
+Qatar,Doha,2026-05-07,26.88,Stable
+Romania,Bucharest,2026-05-01,4.75,Decreasing
+Romania,Bucharest,2026-05-02,4.7,Decreasing
+Romania,Bucharest,2026-05-03,4.65,Decreasing
+Romania,Bucharest,2026-05-04,4.61,Decreasing
+Romania,Bucharest,2026-05-05,4.56,Decreasing
+Romania,Bucharest,2026-05-06,4.51,Decreasing
+Romania,Bucharest,2026-05-07,4.47,Decreasing
+Russia,Chi-Chi-Erh,2026-04-19,-4.79,Increasing
+Russia,Chi-Chi-Erh,2026-04-20,-4.03,Increasing
+Russia,Chi-Chi-Erh,2026-04-21,-3.27,Increasing
+Russia,Chi-Chi-Erh,2026-04-22,-2.52,Increasing
+Russia,Chi-Chi-Erh,2026-04-23,-1.76,Increasing
+Russia,Chi-Chi-Erh,2026-04-24,-1.0,Increasing
+Russia,Chi-Chi-Erh,2026-04-25,-0.25,Increasing
+Russia,Lom,2024-07-01,23.67,Increasing
+Russia,Lom,2024-07-02,24.71,Increasing
+Russia,Lom,2024-07-03,25.75,Increasing
+Russia,Lom,2024-07-04,26.8,Increasing
+Russia,Lom,2024-07-05,27.84,Increasing
+Russia,Lom,2024-07-06,28.88,Increasing
+Russia,Lom,2024-07-07,29.92,Increasing
+Russia,Moscow,2026-05-01,-0.87,Decreasing
+Russia,Moscow,2026-05-02,-0.92,Decreasing
+Russia,Moscow,2026-05-03,-0.96,Decreasing
+Russia,Moscow,2026-05-04,-1.01,Decreasing
+Russia,Moscow,2026-05-05,-1.06,Decreasing
+Russia,Moscow,2026-05-06,-1.1,Decreasing
+Russia,Moscow,2026-05-07,-1.15,Decreasing
+Russia,Saint Petersburg,2024-06-26,22.9,Stable
+Russia,Saint Petersburg,2024-06-27,22.9,Stable
+Russia,Saint Petersburg,2024-06-28,22.9,Stable
+Russia,Saint Petersburg,2024-06-29,22.9,Stable
+Russia,Saint Petersburg,2024-06-30,22.9,Stable
+Russia,Saint Petersburg,2024-07-01,22.9,Stable
+Russia,Saint Petersburg,2024-07-02,22.9,Stable
+Rwanda,Kigali,2026-05-01,19.35,Stable
+Rwanda,Kigali,2026-05-02,19.33,Stable
+Rwanda,Kigali,2026-05-03,19.31,Stable
+Rwanda,Kigali,2026-05-04,19.3,Stable
+Rwanda,Kigali,2026-05-05,19.28,Stable
+Rwanda,Kigali,2026-05-06,19.26,Stable
+Rwanda,Kigali,2026-05-07,19.24,Stable
+Saint Kitts and Nevis,Basseterre,2026-05-01,24.73,Stable
+Saint Kitts and Nevis,Basseterre,2026-05-02,24.72,Stable
+Saint Kitts and Nevis,Basseterre,2026-05-03,24.72,Stable
+Saint Kitts and Nevis,Basseterre,2026-05-04,24.71,Stable
+Saint Kitts and Nevis,Basseterre,2026-05-05,24.7,Stable
+Saint Kitts and Nevis,Basseterre,2026-05-06,24.69,Stable
+Saint Kitts and Nevis,Basseterre,2026-05-07,24.68,Stable
+Saint Lucia,Castries,2026-05-01,25.81,Stable
+Saint Lucia,Castries,2026-05-02,25.8,Stable
+Saint Lucia,Castries,2026-05-03,25.8,Stable
+Saint Lucia,Castries,2026-05-04,25.79,Stable
+Saint Lucia,Castries,2026-05-05,25.78,Stable
+Saint Lucia,Castries,2026-05-06,25.78,Stable
+Saint Lucia,Castries,2026-05-07,25.77,Stable
+Saint Vincent and the Grenadines,Kingstown,2026-05-01,25.85,Stable
+Saint Vincent and the Grenadines,Kingstown,2026-05-02,25.84,Stable
+Saint Vincent and the Grenadines,Kingstown,2026-05-03,25.83,Stable
+Saint Vincent and the Grenadines,Kingstown,2026-05-04,25.83,Stable
+Saint Vincent and the Grenadines,Kingstown,2026-05-05,25.82,Stable
+Saint Vincent and the Grenadines,Kingstown,2026-05-06,25.81,Stable
+Saint Vincent and the Grenadines,Kingstown,2026-05-07,25.81,Stable
+Saint-Vincent-et-les-Grenadines,Kingstown,2024-07-14,27.8,Stable
+Saint-Vincent-et-les-Grenadines,Kingstown,2024-07-15,27.8,Stable
+Saint-Vincent-et-les-Grenadines,Kingstown,2024-07-16,27.8,Stable
+Saint-Vincent-et-les-Grenadines,Kingstown,2024-07-17,27.8,Stable
+Saint-Vincent-et-les-Grenadines,Kingstown,2024-07-18,27.8,Stable
+Saint-Vincent-et-les-Grenadines,Kingstown,2024-07-19,27.8,Stable
+Saint-Vincent-et-les-Grenadines,Kingstown,2024-07-20,27.8,Stable
+Samoa,Apia,2026-05-01,27.01,Stable
+Samoa,Apia,2026-05-02,27.01,Stable
+Samoa,Apia,2026-05-03,27.02,Stable
+Samoa,Apia,2026-05-04,27.02,Stable
+Samoa,Apia,2026-05-05,27.02,Stable
+Samoa,Apia,2026-05-06,27.03,Stable
+Samoa,Apia,2026-05-07,27.03,Stable
+San Marino,City Of San Marino,2024-07-14,31.3,Stable
+San Marino,City Of San Marino,2024-07-15,31.3,Stable
+San Marino,City Of San Marino,2024-07-16,31.3,Stable
+San Marino,City Of San Marino,2024-07-17,31.3,Stable
+San Marino,City Of San Marino,2024-07-18,31.3,Stable
+San Marino,City Of San Marino,2024-07-19,31.3,Stable
+San Marino,City Of San Marino,2024-07-20,31.3,Stable
+San Marino,San Marino,2026-05-01,10.16,Stable
+San Marino,San Marino,2026-05-02,10.13,Stable
+San Marino,San Marino,2026-05-03,10.1,Stable
+San Marino,San Marino,2026-05-04,10.07,Stable
+San Marino,San Marino,2026-05-05,10.04,Stable
+San Marino,San Marino,2026-05-06,10.01,Stable
+San Marino,San Marino,2026-05-07,9.98,Stable
+Saudi Arabia,Riyadh,2026-05-01,21.51,Decreasing
+Saudi Arabia,Riyadh,2026-05-02,21.47,Decreasing
+Saudi Arabia,Riyadh,2026-05-03,21.43,Decreasing
+Saudi Arabia,Riyadh,2026-05-04,21.39,Decreasing
+Saudi Arabia,Riyadh,2026-05-05,21.35,Decreasing
+Saudi Arabia,Riyadh,2026-05-06,21.31,Decreasing
+Saudi Arabia,Riyadh,2026-05-07,21.27,Decreasing
+Saudi Arabien,Ar Riyadh,2024-07-14,45.0,Stable
+Saudi Arabien,Ar Riyadh,2024-07-15,45.0,Stable
+Saudi Arabien,Ar Riyadh,2024-07-16,45.0,Stable
+Saudi Arabien,Ar Riyadh,2024-07-17,45.0,Stable
+Saudi Arabien,Ar Riyadh,2024-07-18,45.0,Stable
+Saudi Arabien,Ar Riyadh,2024-07-19,45.0,Stable
+Saudi Arabien,Ar Riyadh,2024-07-20,45.0,Stable
+Senegal,Dakar,2026-05-01,20.96,Stable
+Senegal,Dakar,2026-05-02,20.94,Stable
+Senegal,Dakar,2026-05-03,20.92,Stable
+Senegal,Dakar,2026-05-04,20.91,Stable
+Senegal,Dakar,2026-05-05,20.89,Stable
+Senegal,Dakar,2026-05-06,20.88,Stable
+Senegal,Dakar,2026-05-07,20.86,Stable
+Serbia,Belgrade,2026-05-01,5.83,Decreasing
+Serbia,Belgrade,2026-05-02,5.79,Decreasing
+Serbia,Belgrade,2026-05-03,5.75,Decreasing
+Serbia,Belgrade,2026-05-04,5.7,Decreasing
+Serbia,Belgrade,2026-05-05,5.66,Decreasing
+Serbia,Belgrade,2026-05-06,5.62,Decreasing
+Serbia,Belgrade,2026-05-07,5.57,Decreasing
+Seychelles Islands,Victoria,2026-05-01,29.72,Stable
+Seychelles Islands,Victoria,2026-05-02,29.72,Stable
+Seychelles Islands,Victoria,2026-05-03,29.73,Stable
+Seychelles Islands,Victoria,2026-05-04,29.73,Stable
+Seychelles Islands,Victoria,2026-05-05,29.73,Stable
+Seychelles Islands,Victoria,2026-05-06,29.74,Stable
+Seychelles Islands,Victoria,2026-05-07,29.74,Stable
+Sierra Leone,Freetown,2026-05-01,24.29,Stable
+Sierra Leone,Freetown,2026-05-02,24.28,Stable
+Sierra Leone,Freetown,2026-05-03,24.27,Stable
+Sierra Leone,Freetown,2026-05-04,24.26,Stable
+Sierra Leone,Freetown,2026-05-05,24.25,Stable
+Sierra Leone,Freetown,2026-05-06,24.25,Stable
+Sierra Leone,Freetown,2026-05-07,24.24,Stable
+Singapore,Singapore,2026-05-01,31.58,Stable
+Singapore,Singapore,2026-05-02,31.58,Stable
+Singapore,Singapore,2026-05-03,31.59,Stable
+Singapore,Singapore,2026-05-04,31.6,Stable
+Singapore,Singapore,2026-05-05,31.61,Stable
+Singapore,Singapore,2026-05-06,31.61,Stable
+Singapore,Singapore,2026-05-07,31.62,Stable
+Slovakia,Bratislava,2026-05-01,4.48,Decreasing
+Slovakia,Bratislava,2026-05-02,4.44,Decreasing
+Slovakia,Bratislava,2026-05-03,4.4,Decreasing
+Slovakia,Bratislava,2026-05-04,4.36,Decreasing
+Slovakia,Bratislava,2026-05-05,4.32,Decreasing
+Slovakia,Bratislava,2026-05-06,4.28,Decreasing
+Slovakia,Bratislava,2026-05-07,4.24,Decreasing
+Slovenia,Ljubljana,2026-05-01,4.24,Decreasing
+Slovenia,Ljubljana,2026-05-02,4.2,Decreasing
+Slovenia,Ljubljana,2026-05-03,4.16,Decreasing
+Slovenia,Ljubljana,2026-05-04,4.12,Decreasing
+Slovenia,Ljubljana,2026-05-05,4.08,Decreasing
+Slovenia,Ljubljana,2026-05-06,4.04,Decreasing
+Slovenia,Ljubljana,2026-05-07,4.0,Decreasing
+Solomon Islands,Honiara,2026-05-01,29.36,Stable
+Solomon Islands,Honiara,2026-05-02,29.37,Stable
+Solomon Islands,Honiara,2026-05-03,29.38,Stable
+Solomon Islands,Honiara,2026-05-04,29.39,Stable
+Solomon Islands,Honiara,2026-05-05,29.4,Stable
+Solomon Islands,Honiara,2026-05-06,29.41,Stable
+Solomon Islands,Honiara,2026-05-07,29.42,Stable
+Somalia,Mogadishu,2026-05-01,28.9,Stable
+Somalia,Mogadishu,2026-05-02,28.9,Stable
+Somalia,Mogadishu,2026-05-03,28.9,Stable
+Somalia,Mogadishu,2026-05-04,28.9,Stable
+Somalia,Mogadishu,2026-05-05,28.9,Stable
+Somalia,Mogadishu,2026-05-06,28.9,Stable
+Somalia,Mogadishu,2026-05-07,28.9,Stable
+South Africa,Pretoria,2026-05-01,17.53,Stable
+South Africa,Pretoria,2026-05-02,17.52,Stable
+South Africa,Pretoria,2026-05-03,17.5,Stable
+South Africa,Pretoria,2026-05-04,17.49,Stable
+South Africa,Pretoria,2026-05-05,17.47,Stable
+South Africa,Pretoria,2026-05-06,17.46,Stable
+South Africa,Pretoria,2026-05-07,17.44,Stable
+South Korea,Seoul,2026-05-01,14.14,Stable
+South Korea,Seoul,2026-05-02,14.13,Stable
+South Korea,Seoul,2026-05-03,14.12,Stable
+South Korea,Seoul,2026-05-04,14.11,Stable
+South Korea,Seoul,2026-05-05,14.1,Stable
+South Korea,Seoul,2026-05-06,14.09,Stable
+South Korea,Seoul,2026-05-07,14.08,Stable
+Spain,Madrid,2026-05-01,6.88,Decreasing
+Spain,Madrid,2026-05-02,6.84,Decreasing
+Spain,Madrid,2026-05-03,6.8,Decreasing
+Spain,Madrid,2026-05-04,6.77,Decreasing
+Spain,Madrid,2026-05-05,6.73,Decreasing
+Spain,Madrid,2026-05-06,6.69,Decreasing
+Spain,Madrid,2026-05-07,6.65,Decreasing
+Sri Lanka,Colombo,2026-05-01,31.51,Stable
+Sri Lanka,Colombo,2026-05-02,31.52,Stable
+Sri Lanka,Colombo,2026-05-03,31.53,Stable
+Sri Lanka,Colombo,2026-05-04,31.53,Stable
+Sri Lanka,Colombo,2026-05-05,31.54,Stable
+Sri Lanka,Colombo,2026-05-06,31.54,Stable
+Sri Lanka,Colombo,2026-05-07,31.55,Stable
+Sudan,Juba,2026-05-01,23.56,Stable
+Sudan,Juba,2026-05-02,23.54,Stable
+Sudan,Juba,2026-05-03,23.51,Stable
+Sudan,Juba,2026-05-04,23.49,Stable
+Sudan,Juba,2026-05-05,23.47,Stable
+Sudan,Juba,2026-05-06,23.45,Stable
+Sudan,Juba,2026-05-07,23.43,Stable
+Sudan,Khartoum,2026-05-01,26.05,Stable
+Sudan,Khartoum,2026-05-02,26.03,Stable
+Sudan,Khartoum,2026-05-03,26.01,Stable
+Sudan,Khartoum,2026-05-04,25.98,Stable
+Sudan,Khartoum,2026-05-05,25.96,Stable
+Sudan,Khartoum,2026-05-06,25.93,Stable
+Sudan,Khartoum,2026-05-07,25.91,Stable
+Suriname,Paramaribo,2026-05-01,22.72,Stable
+Suriname,Paramaribo,2026-05-02,22.72,Stable
+Suriname,Paramaribo,2026-05-03,22.71,Stable
+Suriname,Paramaribo,2026-05-04,22.7,Stable
+Suriname,Paramaribo,2026-05-05,22.69,Stable
+Suriname,Paramaribo,2026-05-06,22.69,Stable
+Suriname,Paramaribo,2026-05-07,22.68,Stable
+Swaziland,Mbabane,2026-05-01,18.88,Stable
+Swaziland,Mbabane,2026-05-02,18.87,Stable
+Swaziland,Mbabane,2026-05-03,18.85,Stable
+Swaziland,Mbabane,2026-05-04,18.84,Stable
+Swaziland,Mbabane,2026-05-05,18.83,Stable
+Swaziland,Mbabane,2026-05-06,18.82,Stable
+Swaziland,Mbabane,2026-05-07,18.81,Stable
+Sweden,Stockholm,2026-05-01,1.55,Decreasing
+Sweden,Stockholm,2026-05-02,1.52,Decreasing
+Sweden,Stockholm,2026-05-03,1.48,Decreasing
+Sweden,Stockholm,2026-05-04,1.44,Decreasing
+Sweden,Stockholm,2026-05-05,1.4,Decreasing
+Sweden,Stockholm,2026-05-06,1.37,Decreasing
+Sweden,Stockholm,2026-05-07,1.33,Decreasing
+Switzerland,Bern,2026-05-01,2.61,Decreasing
+Switzerland,Bern,2026-05-02,2.57,Decreasing
+Switzerland,Bern,2026-05-03,2.53,Decreasing
+Switzerland,Bern,2026-05-04,2.5,Decreasing
+Switzerland,Bern,2026-05-05,2.46,Decreasing
+Switzerland,Bern,2026-05-06,2.42,Decreasing
+Switzerland,Bern,2026-05-07,2.38,Decreasing
+Switzerland,S-Chanf,2026-04-21,-11.89,Decreasing
+Switzerland,S-Chanf,2026-04-22,-12.62,Decreasing
+Switzerland,S-Chanf,2026-04-23,-13.35,Decreasing
+Switzerland,S-Chanf,2026-04-24,-14.08,Decreasing
+Switzerland,S-Chanf,2026-04-25,-14.81,Decreasing
+Switzerland,S-Chanf,2026-04-26,-15.54,Decreasing
+Switzerland,S-Chanf,2026-04-27,-16.27,Decreasing
+Syria,Damascus,2026-05-01,10.75,Decreasing
+Syria,Damascus,2026-05-02,10.7,Decreasing
+Syria,Damascus,2026-05-03,10.65,Decreasing
+Syria,Damascus,2026-05-04,10.6,Decreasing
+Syria,Damascus,2026-05-05,10.55,Decreasing
+Syria,Damascus,2026-05-06,10.5,Decreasing
+Syria,Damascus,2026-05-07,10.45,Decreasing
+SÃ¼dkorea,Seoul,2024-07-14,26.1,Stable
+SÃ¼dkorea,Seoul,2024-07-15,26.1,Stable
+SÃ¼dkorea,Seoul,2024-07-16,26.1,Stable
+SÃ¼dkorea,Seoul,2024-07-17,26.1,Stable
+SÃ¼dkorea,Seoul,2024-07-18,26.1,Stable
+SÃ¼dkorea,Seoul,2024-07-19,26.1,Stable
+SÃ¼dkorea,Seoul,2024-07-20,26.1,Stable
+Tajikistan,Dushanbe,2026-05-01,17.93,Stable
+Tajikistan,Dushanbe,2026-05-02,17.91,Stable
+Tajikistan,Dushanbe,2026-05-03,17.88,Stable
+Tajikistan,Dushanbe,2026-05-04,17.86,Stable
+Tajikistan,Dushanbe,2026-05-05,17.84,Stable
+Tajikistan,Dushanbe,2026-05-06,17.82,Stable
+Tajikistan,Dushanbe,2026-05-07,17.8,Stable
+Tanzania,Dodoma,2026-05-01,21.48,Stable
+Tanzania,Dodoma,2026-05-02,21.46,Stable
+Tanzania,Dodoma,2026-05-03,21.44,Stable
+Tanzania,Dodoma,2026-05-04,21.42,Stable
+Tanzania,Dodoma,2026-05-05,21.41,Stable
+Tanzania,Dodoma,2026-05-06,21.39,Stable
+Tanzania,Dodoma,2026-05-07,21.37,Stable
+Thailand,Bangkok,2026-05-01,33.69,Stable
+Thailand,Bangkok,2026-05-02,33.7,Stable
+Thailand,Bangkok,2026-05-03,33.71,Stable
+Thailand,Bangkok,2026-05-04,33.71,Stable
+Thailand,Bangkok,2026-05-05,33.72,Stable
+Thailand,Bangkok,2026-05-06,33.73,Stable
+Thailand,Bangkok,2026-05-07,33.74,Stable
+Thailand,Nan,2026-05-01,32.35,Stable
+Thailand,Nan,2026-05-02,32.36,Stable
+Thailand,Nan,2026-05-03,32.37,Stable
+Thailand,Nan,2026-05-04,32.38,Stable
+Thailand,Nan,2026-05-05,32.39,Stable
+Thailand,Nan,2026-05-06,32.4,Stable
+Thailand,Nan,2026-05-07,32.41,Stable
+Timor-Leste,Dili,2026-05-01,27.56,Stable
+Timor-Leste,Dili,2026-05-02,27.57,Stable
+Timor-Leste,Dili,2026-05-03,27.57,Stable
+Timor-Leste,Dili,2026-05-04,27.58,Stable
+Timor-Leste,Dili,2026-05-05,27.58,Stable
+Timor-Leste,Dili,2026-05-06,27.59,Stable
+Timor-Leste,Dili,2026-05-07,27.59,Stable
+Togo,Lome,2024-06-26,27.9,Stable
+Togo,Lome,2024-06-27,27.9,Stable
+Togo,Lome,2024-06-28,27.9,Stable
+Togo,Lome,2024-06-29,27.9,Stable
+Togo,Lome,2024-06-30,27.9,Stable
+Togo,Lome,2024-07-01,27.9,Stable
+Togo,Lome,2024-07-02,27.9,Stable
+Tonga,Nuku'alofa,2024-06-27,23.7,Stable
+Tonga,Nuku'alofa,2024-06-28,23.7,Stable
+Tonga,Nuku'alofa,2024-06-29,23.7,Stable
+Tonga,Nuku'alofa,2024-06-30,23.7,Stable
+Tonga,Nuku'alofa,2024-07-01,23.7,Stable
+Tonga,Nuku'alofa,2024-07-02,23.7,Stable
+Tonga,Nuku'alofa,2024-07-03,23.7,Stable
+Tonga,Nuku`Aloia,2026-05-01,26.2,Stable
+Tonga,Nuku`Aloia,2026-05-02,26.21,Stable
+Tonga,Nuku`Aloia,2026-05-03,26.22,Stable
+Tonga,Nuku`Aloia,2026-05-04,26.23,Stable
+Tonga,Nuku`Aloia,2026-05-05,26.24,Stable
+Tonga,Nuku`Aloia,2026-05-06,26.25,Stable
+Tonga,Nuku`Aloia,2026-05-07,26.26,Stable
+Trinidad and Tobago,Port Of Spain,2026-05-01,23.3,Stable
+Trinidad and Tobago,Port Of Spain,2026-05-02,23.29,Stable
+Trinidad and Tobago,Port Of Spain,2026-05-03,23.28,Stable
+Trinidad and Tobago,Port Of Spain,2026-05-04,23.27,Stable
+Trinidad and Tobago,Port Of Spain,2026-05-05,23.26,Stable
+Trinidad and Tobago,Port Of Spain,2026-05-06,23.25,Stable
+Trinidad and Tobago,Port Of Spain,2026-05-07,23.24,Stable
+Tunisia,Tunis,2026-05-01,13.2,Decreasing
+Tunisia,Tunis,2026-05-02,13.16,Decreasing
+Tunisia,Tunis,2026-05-03,13.12,Decreasing
+Tunisia,Tunis,2026-05-04,13.09,Decreasing
+Tunisia,Tunis,2026-05-05,13.05,Decreasing
+Tunisia,Tunis,2026-05-06,13.01,Decreasing
+Tunisia,Tunis,2026-05-07,12.97,Decreasing
+Turkey,Ankara,2026-05-01,5.91,Decreasing
+Turkey,Ankara,2026-05-02,5.86,Decreasing
+Turkey,Ankara,2026-05-03,5.82,Decreasing
+Turkey,Ankara,2026-05-04,5.78,Decreasing
+Turkey,Ankara,2026-05-05,5.73,Decreasing
+Turkey,Ankara,2026-05-06,5.69,Decreasing
+Turkey,Ankara,2026-05-07,5.65,Decreasing
+Turkey,Yaren,2026-05-01,7.45,Decreasing
+Turkey,Yaren,2026-05-02,7.4,Decreasing
+Turkey,Yaren,2026-05-03,7.35,Decreasing
+Turkey,Yaren,2026-05-04,7.31,Decreasing
+Turkey,Yaren,2026-05-05,7.26,Decreasing
+Turkey,Yaren,2026-05-06,7.22,Decreasing
+Turkey,Yaren,2026-05-07,7.17,Decreasing
+Turkmenistan,Ashgabat,2026-05-01,16.03,Stable
+Turkmenistan,Ashgabat,2026-05-02,16.0,Stable
+Turkmenistan,Ashgabat,2026-05-03,15.97,Stable
+Turkmenistan,Ashgabat,2026-05-04,15.95,Stable
+Turkmenistan,Ashgabat,2026-05-05,15.92,Stable
+Turkmenistan,Ashgabat,2026-05-06,15.89,Stable
+Turkmenistan,Ashgabat,2026-05-07,15.86,Stable
+TurkmÃ©nistan,Krasnyy Turkmenistan,2024-07-14,37.8,Stable
+TurkmÃ©nistan,Krasnyy Turkmenistan,2024-07-15,37.8,Stable
+TurkmÃ©nistan,Krasnyy Turkmenistan,2024-07-16,37.8,Stable
+TurkmÃ©nistan,Krasnyy Turkmenistan,2024-07-17,37.8,Stable
+TurkmÃ©nistan,Krasnyy Turkmenistan,2024-07-18,37.8,Stable
+TurkmÃ©nistan,Krasnyy Turkmenistan,2024-07-19,37.8,Stable
+TurkmÃ©nistan,Krasnyy Turkmenistan,2024-07-20,37.8,Stable
+Tuvalu,Funafuti,2026-05-01,29.13,Stable
+Tuvalu,Funafuti,2026-05-02,29.13,Stable
+Tuvalu,Funafuti,2026-05-03,29.13,Stable
+Tuvalu,Funafuti,2026-05-04,29.13,Stable
+Tuvalu,Funafuti,2026-05-05,29.14,Stable
+Tuvalu,Funafuti,2026-05-06,29.14,Stable
+Tuvalu,Funafuti,2026-05-07,29.14,Stable
+USA United States of America,Grenada,2024-06-26,28.2,Stable
+USA United States of America,Grenada,2024-06-27,28.2,Stable
+USA United States of America,Grenada,2024-06-28,28.2,Stable
+USA United States of America,Grenada,2024-06-29,28.2,Stable
+USA United States of America,Grenada,2024-06-30,28.2,Stable
+USA United States of America,Grenada,2024-07-01,28.2,Stable
+USA United States of America,Grenada,2024-07-02,28.2,Stable
+USA United States of America,Moroni,2024-06-26,18.2,Stable
+USA United States of America,Moroni,2024-06-27,18.2,Stable
+USA United States of America,Moroni,2024-06-28,18.2,Stable
+USA United States of America,Moroni,2024-06-29,18.2,Stable
+USA United States of America,Moroni,2024-06-30,18.2,Stable
+USA United States of America,Moroni,2024-07-01,18.2,Stable
+USA United States of America,Moroni,2024-07-02,18.2,Stable
+USA United States of America,Palau,2024-06-26,27.2,Stable
+USA United States of America,Palau,2024-06-27,27.2,Stable
+USA United States of America,Palau,2024-06-28,27.2,Stable
+USA United States of America,Palau,2024-06-29,27.2,Stable
+USA United States of America,Palau,2024-06-30,27.2,Stable
+USA United States of America,Palau,2024-07-01,27.2,Stable
+USA United States of America,Palau,2024-07-02,27.2,Stable
+Uganda,Kampala,2026-05-01,22.7,Stable
+Uganda,Kampala,2026-05-02,22.68,Stable
+Uganda,Kampala,2026-05-03,22.67,Stable
+Uganda,Kampala,2026-05-04,22.66,Stable
+Uganda,Kampala,2026-05-05,22.65,Stable
+Uganda,Kampala,2026-05-06,22.64,Stable
+Uganda,Kampala,2026-05-07,22.63,Stable
+Ukraine,Kyiv,2026-05-01,1.37,Decreasing
+Ukraine,Kyiv,2026-05-02,1.33,Decreasing
+Ukraine,Kyiv,2026-05-03,1.28,Decreasing
+Ukraine,Kyiv,2026-05-04,1.23,Decreasing
+Ukraine,Kyiv,2026-05-05,1.18,Decreasing
+Ukraine,Kyiv,2026-05-06,1.13,Decreasing
+Ukraine,Kyiv,2026-05-07,1.09,Decreasing
+United Arab Emirates,Abu Dhabi,2026-05-01,28.22,Stable
+United Arab Emirates,Abu Dhabi,2026-05-02,28.2,Stable
+United Arab Emirates,Abu Dhabi,2026-05-03,28.19,Stable
+United Arab Emirates,Abu Dhabi,2026-05-04,28.17,Stable
+United Arab Emirates,Abu Dhabi,2026-05-05,28.15,Stable
+United Arab Emirates,Abu Dhabi,2026-05-06,28.13,Stable
+United Arab Emirates,Abu Dhabi,2026-05-07,28.11,Stable
+United Kingdom,London,2026-05-01,6.63,Stable
+United Kingdom,London,2026-05-02,6.6,Stable
+United Kingdom,London,2026-05-03,6.58,Stable
+United Kingdom,London,2026-05-04,6.55,Stable
+United Kingdom,London,2026-05-05,6.53,Stable
+United Kingdom,London,2026-05-06,6.5,Stable
+United Kingdom,London,2026-05-07,6.48,Stable
+United States of America,New York,2024-06-26,26.1,Stable
+United States of America,New York,2024-06-27,26.1,Stable
+United States of America,New York,2024-06-28,26.1,Stable
+United States of America,New York,2024-06-29,26.1,Stable
+United States of America,New York,2024-06-30,26.1,Stable
+United States of America,New York,2024-07-01,26.1,Stable
+United States of America,New York,2024-07-02,26.1,Stable
+United States of America,Washington Harbor,2026-05-01,7.1,Stable
+United States of America,Washington Harbor,2026-05-02,7.1,Stable
+United States of America,Washington Harbor,2026-05-03,7.09,Stable
+United States of America,Washington Harbor,2026-05-04,7.09,Stable
+United States of America,Washington Harbor,2026-05-05,7.08,Stable
+United States of America,Washington Harbor,2026-05-06,7.07,Stable
+United States of America,Washington Harbor,2026-05-07,7.07,Stable
+United States of America,Washington Park,2024-05-31,7.19,Decreasing
+United States of America,Washington Park,2024-06-01,6.81,Decreasing
+United States of America,Washington Park,2024-06-02,6.43,Decreasing
+United States of America,Washington Park,2024-06-03,6.05,Decreasing
+United States of America,Washington Park,2024-06-04,5.67,Decreasing
+United States of America,Washington Park,2024-06-05,5.29,Decreasing
+United States of America,Washington Park,2024-06-06,4.91,Decreasing
+Uruguay,Montevideo,2026-05-01,17.09,Stable
+Uruguay,Montevideo,2026-05-02,17.1,Stable
+Uruguay,Montevideo,2026-05-03,17.11,Stable
+Uruguay,Montevideo,2026-05-04,17.12,Stable
+Uruguay,Montevideo,2026-05-05,17.13,Stable
+Uruguay,Montevideo,2026-05-06,17.14,Stable
+Uruguay,Montevideo,2026-05-07,17.16,Stable
+Uzbekistan,Tashkent,2026-05-01,16.89,Stable
+Uzbekistan,Tashkent,2026-05-02,16.87,Stable
+Uzbekistan,Tashkent,2026-05-03,16.84,Stable
+Uzbekistan,Tashkent,2026-05-04,16.82,Stable
+Uzbekistan,Tashkent,2026-05-05,16.8,Stable
+Uzbekistan,Tashkent,2026-05-06,16.77,Stable
+Uzbekistan,Tashkent,2026-05-07,16.75,Stable
+Vanuatu,Port Vila,2026-05-01,27.91,Stable
+Vanuatu,Port Vila,2026-05-02,27.92,Stable
+Vanuatu,Port Vila,2026-05-03,27.94,Stable
+Vanuatu,Port Vila,2026-05-04,27.95,Stable
+Vanuatu,Port Vila,2026-05-05,27.96,Stable
+Vanuatu,Port Vila,2026-05-06,27.97,Stable
+Vanuatu,Port Vila,2026-05-07,27.98,Stable
+Vatican City,Vatican City,2026-05-01,9.84,Decreasing
+Vatican City,Vatican City,2026-05-02,9.8,Decreasing
+Vatican City,Vatican City,2026-05-03,9.76,Decreasing
+Vatican City,Vatican City,2026-05-04,9.72,Decreasing
+Vatican City,Vatican City,2026-05-05,9.68,Decreasing
+Vatican City,Vatican City,2026-05-06,9.64,Decreasing
+Vatican City,Vatican City,2026-05-07,9.6,Decreasing
+Venezuela,Caracas,2026-05-01,20.78,Stable
+Venezuela,Caracas,2026-05-02,20.77,Stable
+Venezuela,Caracas,2026-05-03,20.76,Stable
+Venezuela,Caracas,2026-05-04,20.75,Stable
+Venezuela,Caracas,2026-05-05,20.74,Stable
+Venezuela,Caracas,2026-05-06,20.73,Stable
+Venezuela,Caracas,2026-05-07,20.72,Stable
+Vietnam,Ban Lom,2025-08-21,29.26,Stable
+Vietnam,Ban Lom,2025-08-22,29.28,Stable
+Vietnam,Ban Lom,2025-08-23,29.31,Stable
+Vietnam,Ban Lom,2025-08-24,29.33,Stable
+Vietnam,Ban Lom,2025-08-25,29.36,Stable
+Vietnam,Ban Lom,2025-08-26,29.38,Stable
+Vietnam,Ban Lom,2025-08-27,29.41,Stable
+Vietnam,Hanoi,2026-05-01,26.33,Stable
+Vietnam,Hanoi,2026-05-02,26.33,Stable
+Vietnam,Hanoi,2026-05-03,26.32,Stable
+Vietnam,Hanoi,2026-05-04,26.32,Stable
+Vietnam,Hanoi,2026-05-05,26.32,Stable
+Vietnam,Hanoi,2026-05-06,26.31,Stable
+Vietnam,Hanoi,2026-05-07,26.31,Stable
+Vietnam,Ho Chi Minh City,2024-06-26,26.6,Stable
+Vietnam,Ho Chi Minh City,2024-06-27,26.6,Stable
+Vietnam,Ho Chi Minh City,2024-06-28,26.6,Stable
+Vietnam,Ho Chi Minh City,2024-06-29,26.6,Stable
+Vietnam,Ho Chi Minh City,2024-06-30,26.6,Stable
+Vietnam,Ho Chi Minh City,2024-07-01,26.6,Stable
+Vietnam,Ho Chi Minh City,2024-07-02,26.6,Stable
+Vietnam,S. Manian,2026-04-28,32.68,Increasing
+Vietnam,S. Manian,2026-04-29,32.93,Increasing
+Vietnam,S. Manian,2026-04-30,33.17,Increasing
+Vietnam,S. Manian,2026-05-01,33.42,Increasing
+Vietnam,S. Manian,2026-05-02,33.67,Increasing
+Vietnam,S. Manian,2026-05-03,33.91,Increasing
+Vietnam,S. Manian,2026-05-04,34.16,Increasing
+Yemen,Sanaa,2026-05-01,18.22,Stable
+Yemen,Sanaa,2026-05-02,18.2,Stable
+Yemen,Sanaa,2026-05-03,18.18,Stable
+Yemen,Sanaa,2026-05-04,18.17,Stable
+Yemen,Sanaa,2026-05-05,18.15,Stable
+Yemen,Sanaa,2026-05-06,18.13,Stable
+Yemen,Sanaa,2026-05-07,18.11,Stable
+Zambia,Lusaka,2026-05-01,20.16,Stable
+Zambia,Lusaka,2026-05-02,20.14,Stable
+Zambia,Lusaka,2026-05-03,20.12,Stable
+Zambia,Lusaka,2026-05-04,20.1,Stable
+Zambia,Lusaka,2026-05-05,20.09,Stable
+Zambia,Lusaka,2026-05-06,20.07,Stable
+Zambia,Lusaka,2026-05-07,20.05,Stable
+Zimbabwe,Harare,2026-05-01,19.1,Stable
+Zimbabwe,Harare,2026-05-02,19.08,Stable
+Zimbabwe,Harare,2026-05-03,19.06,Stable
+Zimbabwe,Harare,2026-05-04,19.04,Stable
+Zimbabwe,Harare,2026-05-05,19.03,Stable
+Zimbabwe,Harare,2026-05-06,19.01,Stable
+Zimbabwe,Harare,2026-05-07,18.99,Stable
+Ð¢ÑƒÑ€Ñ†Ð¸Ñ,Yaren,2024-07-14,34.0,Stable
+Ð¢ÑƒÑ€Ñ†Ð¸Ñ,Yaren,2024-07-15,34.0,Stable
+Ð¢ÑƒÑ€Ñ†Ð¸Ñ,Yaren,2024-07-16,34.0,Stable
+Ð¢ÑƒÑ€Ñ†Ð¸Ñ,Yaren,2024-07-17,34.0,Stable
+Ð¢ÑƒÑ€Ñ†Ð¸Ñ,Yaren,2024-07-18,34.0,Stable
+Ð¢ÑƒÑ€Ñ†Ð¸Ñ,Yaren,2024-07-19,34.0,Stable
+Ð¢ÑƒÑ€Ñ†Ð¸Ñ,Yaren,2024-07-20,34.0,Stable
+ÐŸÐ¾Ð»ÑŒÑˆÐ°,Beirut,2024-07-14,24.2,Stable
+ÐŸÐ¾Ð»ÑŒÑˆÐ°,Beirut,2024-07-15,24.2,Stable
+ÐŸÐ¾Ð»ÑŒÑˆÐ°,Beirut,2024-07-16,24.2,Stable
+ÐŸÐ¾Ð»ÑŒÑˆÐ°,Beirut,2024-07-17,24.2,Stable
+ÐŸÐ¾Ð»ÑŒÑˆÐ°,Beirut,2024-07-18,24.2,Stable
+ÐŸÐ¾Ð»ÑŒÑˆÐ°,Beirut,2024-07-19,24.2,Stable
+ÐŸÐ¾Ð»ÑŒÑˆÐ°,Beirut,2024-07-20,24.2,Stable
+Ð“Ð²Ð°Ñ‚ÐµÐ¼Ð°Ð»Ð°,New Guatemala,2024-07-14,15.9,Stable
+Ð“Ð²Ð°Ñ‚ÐµÐ¼Ð°Ð»Ð°,New Guatemala,2024-07-15,15.9,Stable
+Ð“Ð²Ð°Ñ‚ÐµÐ¼Ð°Ð»Ð°,New Guatemala,2024-07-16,15.9,Stable
+Ð“Ð²Ð°Ñ‚ÐµÐ¼Ð°Ð»Ð°,New Guatemala,2024-07-17,15.9,Stable
+Ð“Ð²Ð°Ñ‚ÐµÐ¼Ð°Ð»Ð°,New Guatemala,2024-07-18,15.9,Stable
+Ð“Ð²Ð°Ñ‚ÐµÐ¼Ð°Ð»Ð°,New Guatemala,2024-07-19,15.9,Stable
+Ð“Ð²Ð°Ñ‚ÐµÐ¼Ð°Ð»Ð°,New Guatemala,2024-07-20,15.9,Stable
+ÙƒÙˆÙ„ÙˆÙ…Ø¨ÙŠØ§,Costa Rica,2024-07-14,23.1,Stable
+ÙƒÙˆÙ„ÙˆÙ…Ø¨ÙŠØ§,Costa Rica,2024-07-15,23.1,Stable
+ÙƒÙˆÙ„ÙˆÙ…Ø¨ÙŠØ§,Costa Rica,2024-07-16,23.1,Stable
+ÙƒÙˆÙ„ÙˆÙ…Ø¨ÙŠØ§,Costa Rica,2024-07-17,23.1,Stable
+ÙƒÙˆÙ„ÙˆÙ…Ø¨ÙŠØ§,Costa Rica,2024-07-18,23.1,Stable
+ÙƒÙˆÙ„ÙˆÙ…Ø¨ÙŠØ§,Costa Rica,2024-07-19,23.1,Stable
+ÙƒÙˆÙ„ÙˆÙ…Ø¨ÙŠØ§,Costa Rica,2024-07-20,23.1,Stable
+ç«é¸¡,#NAME?,2024-07-14,29.7,Stable
+ç«é¸¡,#NAME?,2024-07-15,29.7,Stable
+ç«é¸¡,#NAME?,2024-07-16,29.7,Stable
+ç«é¸¡,#NAME?,2024-07-17,29.7,Stable
+ç«é¸¡,#NAME?,2024-07-18,29.7,Stable
+ç«é¸¡,#NAME?,2024-07-19,29.7,Stable
+ç«é¸¡,#NAME?,2024-07-20,29.7,Stable

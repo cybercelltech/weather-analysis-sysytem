@@ -1,0 +1,272 @@
+Country,City,Records,Average_Temperature_C,Total_Rainfall_mm,Extreme_Days,Warning_Days,Normal_Days,Temperature_Trend_Slope,Future_Trend
+Afghanistan,Kabul,437,19.037070938215106,14.219999999999999,10,41,386,-0.0242,Stable
+Albania,Tirana,437,19.075057208237986,68.97,1,87,349,-0.0432,Decreasing
+Algeria,Algiers,436,20.12408256880734,22.13,0,88,348,-0.0367,Decreasing
+Andorra,Andorra La Vella,437,8.659267734553776,49.2,104,98,235,-0.0407,Decreasing
+Angola,Luanda,437,26.197025171624716,14.13,0,38,399,-0.0055,Stable
+Antigua and Barbuda,Saint John's,436,26.30137614678899,49.32,0,103,333,-0.0084,Stable
+Argentina,Buenos Aires,436,15.213532110091744,49.57,0,214,222,0.0125,Stable
+Armenia,Yerevan,437,16.533180778032037,22.44,32,74,331,-0.0425,Decreasing
+Australia,Canberra,436,15.41788990825688,47.84,12,99,325,0.0412,Increasing
+Australia,Melbourne,1,11.6,0.0,0,0,1,0.0,Stable
+Austria,Vienna,436,12.591284403669725,37.23,36,131,269,-0.0393,Decreasing
+Azerbaijan,Baku,437,18.308924485125857,15.540000000000001,2,120,315,-0.0257,Stable
+Bahamas,Nassau,433,24.54295612009238,30.06,0,177,256,-0.0118,Stable
+Bahrain,Manama,437,29.716247139588102,2.1900000000000004,34,153,250,-0.0234,Stable
+Bangladesh,Dhaka,436,30.997247706422016,147.21,4,75,357,0.0021,Stable
+Barbados,Bridgetown,436,27.029816513761467,54.7,0,86,350,-0.0066,Stable
+Belarus,Minsk,437,9.635697940503434,28.97,74,146,217,-0.0488,Decreasing
+Belgium,'S Gravenjansdijk,259,14.483011583011583,24.22,3,100,156,-0.0077,Stable
+Belgium,'S Gravenjansdyk,4,17.8,1.72,0,1,3,-0.54,Decreasing
+Belgium,'S Gravenstaffel,16,15.5625,3.02,0,7,9,0.1897,Increasing
+Belgium,'S-Gravenbrakel,95,8.038947368421054,7.12,6,59,30,-0.0934,Decreasing
+Belgium,Brussels,436,12.081192660550458,32.71,16,184,236,-0.0271,Stable
+Belize,Belmopan,434,22.05483870967742,61.75,0,408,26,-0.0129,Stable
+Benin,Porto-Novo,436,28.29334862385321,31.29,0,147,289,-0.0075,Stable
+Bhutan,Thimphu,436,13.3348623853211,129.89000000000001,0,113,323,0.0014,Stable
+Bolivia,National,434,22.572350230414745,57.91,0,243,191,-0.0056,Stable
+Bolivia,Sucre,434,11.964746543778801,33.21,0,130,304,0.0001,Stable
+Bosnia and Herzegovina,Sarajevo,437,12.761098398169338,78.3,45,148,244,-0.047,Decreasing
+Botswana,Gaborone,437,23.04370709382151,32.0,0,72,365,-0.0215,Stable
+Brazil,Bras,435,24.16758620689655,89.91,0,267,168,-0.0122,Stable
+Brazil,Sao Paulo,1,17.9,0.09,0,1,0,0.0,Stable
+Brunei Darussalam,Bandar Seri Begawan,437,29.469565217391306,205.32,0,100,337,0.0093,Stable
+Bulgaria,Bogot,399,16.91578947368421,29.89,27,109,263,-0.0423,Decreasing
+Bulgaria,Lom,180,10.227777777777778,16.08,23,63,94,-0.1147,Decreasing
+Bulgaria,Sofia,435,13.409655172413792,46.65,39,123,273,-0.0434,Decreasing
+Burkina Faso,Ouagadougou,436,27.92775229357798,20.55,4,75,357,-0.0239,Stable
+Burundi,Bujumbura,437,25.836384439359268,82.8,2,28,407,-0.0115,Stable
+BÃ©lgica,Bern,1,17.4,0.12,0,0,1,0.0,Stable
+Cambodia,Phnom Penh,435,31.62022988505747,60.76,0,141,294,0.0101,Stable
+Cambodia,Phnum Penh,1,26.3,0.0,0,0,1,0.0,Stable
+Cameroon,Bafoussam,7,22.185714285714287,3.91,0,2,5,-0.1071,Decreasing
+Cameroon,Douala,157,25.57579617834395,27.63,0,148,9,-0.0019,Stable
+Cameroon,Ngaoundere,256,25.349609375,60.68,0,45,211,-0.002,Stable
+Cameroon,Yaounde,16,29.79375,5.06,0,0,16,-0.0149,Stable
+Canada,Ottawa,436,5.130504587155963,50.12,146,198,92,-0.0365,Decreasing
+Cape Verde,Praia,437,23.89016018306636,6.05,0,51,386,-0.015,Stable
+Central African Republic,Bangui,436,27.936238532110092,60.05,0,152,284,-0.0226,Stable
+Chad,N'djamena,437,29.451487414187643,17.85,17,98,322,-0.0266,Stable
+Chile,Santiago,436,11.260779816513761,25.55,4,163,269,0.0155,Stable
+China,Beijing,435,17.875632183908046,22.71,20,88,327,-0.0142,Stable
+China,Beijing Shi,1,24.3,0.0,0,0,1,0.0,Stable
+Colombia,Bogota,1,13.5,0.02,0,0,1,0.0,Stable
+Comoros,Moroni,435,26.698160919540232,103.16,0,9,426,0.006,Stable
+Congo,Brazzaville,436,26.593577981651375,50.54,0,123,313,-0.0193,Stable
+Costa Rica,San Ignacio,261,19.477394636015326,34.6,0,131,130,0.0121,Stable
+Costa Rica,San Jose,155,19.14322580645161,4.65,0,77,78,-0.0465,Decreasing
+Costa Rica,San Juan,16,23.75,3.18,0,3,13,0.0088,Stable
+Cote d'Ivoire,Yamoussoukro,156,22.9275641025641,6.51,0,143,13,0.0047,Stable
+Croatia,Zagreb,435,13.89080459770115,45.08,23,171,241,-0.043,Decreasing
+Cuba,Havana,435,22.56551724137931,8.84,0,344,91,-0.0143,Stable
+Cyprus,Nicosia,436,24.061238532110092,10.57,4,95,337,-0.0323,Decreasing
+Czech Republic,Prague,434,10.811290322580646,27.73,49,140,245,-0.0388,Decreasing
+Democratic Republic of Congo,Kinshasa,434,26.473963133640556,51.089999999999996,0,126,308,-0.0192,Stable
+Denmark,Copenhagen,436,10.747706422018348,31.42,24,199,213,-0.0296,Stable
+Djibouti,Djibouti,435,31.322988505747126,10.09,31,64,340,-0.0179,Stable
+Dominica,Roseau,436,26.572477064220184,59.77,0,41,395,-0.0075,Stable
+Dominican Republic,Santo Domingo,435,23.899080459770115,56.37,0,405,30,-0.0091,Stable
+Ecuador,Quito,434,10.533640552995392,40.03,0,259,175,-0.0018,Stable
+Egypt,Cairo,436,25.33669724770642,0.4,11,56,369,-0.0364,Decreasing
+El Salvador,San Salvador,432,23.614583333333332,109.31,0,287,145,0.0027,Stable
+Equatorial Guinea,Malabo,437,26.99862700228833,162.63,0,225,212,-0.0065,Stable
+Eritrea,Asmara,437,21.024485125858124,49.33,0,1,436,-0.0093,Stable
+Estonia,Tallinn,436,9.071788990825688,40.49,62,163,211,-0.0408,Decreasing
+Estonie,Tallinn,1,23.3,0.0,0,0,1,0.0,Stable
+Ethiopia,Addis Ababa,434,19.667741935483868,98.5,1,13,420,-0.0117,Stable
+Ethiopia,Addis Abeba,1,19.8,0.34,0,0,1,0.0,Stable
+Fiji Islands,Suva,437,25.002517162471396,150.76,2,309,126,0.0111,Stable
+Finland,Helsinki,437,8.92745995423341,31.8,68,164,205,-0.0421,Decreasing
+France,Paris,437,13.113729977116705,42.88,10,187,240,-0.0276,Stable
+Gabon,Libreville,436,26.863990825688074,82.99,0,180,256,-0.0079,Stable
+Gambia,Banjul,435,24.743218390804596,36.08,0,145,290,-0.0217,Stable
+Georgia,Tbilisi,435,16.675402298850575,28.6,3,85,347,-0.032,Decreasing
+Germany,Berlin,437,11.932265446224255,28.59,38,141,258,-0.0414,Decreasing
+Ghana,Accra,437,27.37070938215103,24.45,0,186,251,-0.0078,Stable
+Greece,Athens,434,21.488248847926265,18.95,0,64,370,-0.0343,Decreasing
+Grenada,Saint George's,435,27.119080459770114,61.99,0,117,318,-0.0057,Stable
+Guatemala,Guatemala City,432,17.16412037037037,37.78,0,346,86,-0.0033,Stable
+Guinea,Conakry,436,26.207339449541283,165.88,0,200,236,-0.0076,Stable
+Guinea-Bissau,Bissau,437,25.23272311212815,97.0,0,175,262,-0.0208,Stable
+Guyana,Georgetown,436,24.595412844036698,207.2,0,395,41,-0.0063,Stable
+Haiti,Port-Au-Prince,435,21.406206896551726,11.62,0,306,129,-0.0175,Stable
+Honduras,Tegucigalpa,433,19.28660508083141,38.26,0,264,169,-0.0006,Stable
+Hungary,Bogot,36,5.736111111111111,3.01,3,17,16,0.3089,Increasing
+Hungary,Budapest,437,13.881006864988558,32.29,29,121,287,-0.0421,Decreasing
+Iceland,Grindavik,24,8.920833333333333,5.24,1,14,9,0.1427,Increasing
+Iceland,Reykjavik,156,3.6019230769230766,22.05,36,91,29,-0.0461,Decreasing
+Iceland,Vestmannaeyjar,256,6.46640625,48.97,26,184,46,0.0074,Stable
+Inde,New Delhi,1,31.2,0.0,0,0,1,0.0,Stable
+India,New Delhi,435,30.16712643678161,18.63,30,114,291,-0.0196,Stable
+India,chandigarh,1,40.0,0.0,1,0,0,0.0,Stable
+Indonesia,Bali,1,29.3,0.0,0,0,1,0.0,Stable
+Indonesia,Jakarta,437,30.21762013729977,136.65,0,30,407,0.0043,Stable
+Indonesia,Laos,436,26.223853211009175,291.41,0,177,259,0.0151,Stable
+Indonesia,Surabaya,1,27.7,0.0,0,0,1,0.0,Stable
+Iran,Chi Chi Khvar,412,16.292233009708738,17.74,36,75,301,-0.0321,Decreasing
+Iran,Tehran,437,21.455377574370708,12.370000000000001,0,73,364,-0.0317,Decreasing
+Iraq,Baghdad,437,28.385812356979407,9.28,109,81,247,-0.0472,Decreasing
+Ireland,Dublin,436,10.926146788990826,57.77,6,216,214,-0.0195,Stable
+Israel,Jerusalem,436,23.272477064220183,5.67,0,32,404,-0.0245,Stable
+Italy,Rome,436,18.44862385321101,32.94,0,128,308,-0.0393,Decreasing
+Jamaica,Kingston,157,26.23248407643312,1.4300000000000002,0,22,135,-0.018,Stable
+Jamaica,Norman Gardens,24,30.15833333333333,0.3,0,1,23,0.04,Increasing
+Jamaica,Port Royal,254,26.85984251968504,29.990000000000002,0,54,200,-0.0084,Stable
+Japan,Tokyo,437,19.867963386727688,36.14,0,66,371,-0.0123,Stable
+Jemen,Sanaa,1,26.1,0.2,0,0,1,0.0,Stable
+Jordan,Amman,437,21.30938215102975,6.37,3,38,396,-0.0365,Decreasing
+Kazakhstan,Astana,436,8.22362385321101,21.259999999999998,139,64,233,-0.0344,Decreasing
+Kenya,Mombasa,1,26.8,0.0,0,0,1,0.0,Stable
+Kenya,Nairobi,437,21.602517162471393,51.25,0,24,413,-0.0128,Stable
+Kiribati,Tarawa,435,28.018620689655172,29.05,0,6,429,-0.0004,Stable
+Komoren,Moroni,1,25.2,0.0,0,0,1,0.0,Stable
+Kosovo,Pristina,1,29.3,0.27,0,0,1,0.0,Stable
+Kuwait,Kuwait,1,44.4,0.0,1,0,0,0.0,Stable
+Kuwait,Kuwait City,436,30.627981651376146,4.37,133,55,248,-0.0374,Decreasing
+Kyrghyzstan,Bishkek,436,17.065825688073396,49.93,31,96,309,-0.0141,Stable
+Lao People's Democratic Republic,Vientiane,1,25.0,1.97,0,1,0,0.0,Stable
+Latvia,Riga,435,9.804137931034484,42.95,61,157,217,-0.0461,Decreasing
+Lebanon,Beirut,436,23.0348623853211,25.04,0,10,426,-0.0196,Stable
+Lesotho,Maseru,436,19.21169724770642,22.07,0,20,416,-0.0095,Stable
+Letonia,Riga,1,20.6,1.83,0,1,0,0.0,Stable
+Liberia,Monrovia,436,25.912844036697248,140.79,0,284,152,-0.0102,Stable
+Libya,Tripoli,1,27.0,0.0,0,0,1,0.0,Stable
+Liechtenstein,Vaduz,435,10.06735632183908,89.89,68,178,189,-0.0317,Decreasing
+Lithuania,Vilnius,436,9.454128440366972,47.58,72,146,218,-0.0464,Decreasing
+Luxembourg,Luxembourg,435,10.71126436781609,41.63,38,204,193,-0.0279,Stable
+Macedonia,Skopje,433,16.23718244803695,22.76,34,128,271,-0.05,Decreasing
+Madagascar,Antananarivo,437,23.877345537757435,35.99,0,9,428,-0.0034,Stable
+Madagascar,Ivory,278,28.537410071942446,14.28,4,35,239,-0.0093,Stable
+Malawi,Lilongwe,437,24.071853546910756,51.11,0,58,379,-0.0137,Stable
+Malaysia,Kuala Lumpur,437,30.4766590389016,254.6,0,101,336,0.013,Stable
+Maldives,Dhidhdhoo,411,27.881508515815085,88.8,0,20,391,-0.001,Stable
+Maldives,Felidhoo,22,28.818181818181817,10.5,0,9,13,-0.0269,Stable
+Maldives,Male,1,28.8,0.02,0,0,1,0.0,Stable
+Mali,Bamako,437,26.57070938215103,28.22,5,79,353,-0.0229,Stable
+Malta,Valletta,437,21.773455377574372,20.65,1,110,326,-0.0288,Stable
+MalÃ¡sia,Ivory Ivory Ban,1,24.3,1.55,0,1,0,0.0,Stable
+Marrocos,Morocco City,1,40.3,0.0,1,0,0,0.0,Stable
+Marshall Islands,Majuro,437,28.170480549199084,137.17,0,95,342,0.0002,Stable
+Mauritania,Nouakchott,437,23.471395881006863,2.83,0,31,406,-0.0174,Stable
+Mauritius,Port Louis,437,26.80183066361556,36.5,0,28,409,0.0086,Stable
+Mexico,Mexico City,434,14.497465437788017,19.21,0,111,323,0.0,Stable
+Mexique,Mexico (Grupo Mexico),1,27.4,0.0,0,0,1,0.0,Stable
+Micronesia,Palikir,436,28.17155963302752,160.91,0,177,259,0.0059,Stable
+Monaco,Monaco,435,17.725977011494255,41.71,0,32,403,-0.0246,Stable
+Mongolia,Ulaanbaatar,435,3.6043678160919543,19.17,187,43,205,-0.027,Stable
+Montenegro,Podgorica,436,18.232798165137616,79.78999999999999,3,125,308,-0.0384,Decreasing
+Morocco,Rabat,435,18.65655172413793,22.6,0,207,228,-0.029,Stable
+Mozambique,Maputo,437,25.562242562929065,27.87,0,57,380,-0.0082,Stable
+Myanmar,Pathein,16,28.80625,12.309999999999999,0,8,8,-0.3963,Decreasing
+Myanmar,Rangoon,165,31.90666666666667,33.44,0,45,120,0.0396,Increasing
+Myanmar,Yangon,256,30.58203125,123.55,0,105,151,0.0164,Stable
+Namibia,Windhoek,437,22.228146453089245,11.38,0,39,398,-0.0219,Stable
+Nepal,Kathmandu,435,23.10137931034483,197.43,0,35,400,-0.0015,Stable
+Netherlands,Amsterdam,436,12.337844036697248,45.01,7,197,232,-0.0265,Stable
+New Zealand,Wellington,438,14.109360730593606,69.01,2,187,249,0.012,Stable
+Nicaragua,Managua,433,24.35704387990762,52.230000000000004,0,224,209,-0.0006,Stable
+Niger,Niamey,436,28.998394495412843,7.5200000000000005,14,50,372,-0.0256,Stable
+Nigeria,Abuja,437,27.226315789473684,55.3,0,101,336,-0.0166,Stable
+North Korea,Pyongyang,436,14.080963302752293,39.82,66,102,268,-0.0126,Stable
+Norway,Oslo,436,8.211238532110091,38.410000000000004,68,188,180,-0.021,Stable
+Oman,Muscat,437,31.630892448512586,3.05,32,84,321,-0.0091,Stable
+Pakistan,Islamabad,436,28.392201834862384,32.16,17,70,349,-0.02,Stable
+Palau,Adkip,8,26.9375,0.74,0,5,3,-0.0131,Stable
+Palau,Airai,227,28.060792951541853,102.08,0,82,145,0.0042,Stable
+Palau,Koror,185,28.980540540540538,87.02,0,34,151,0.0167,Stable
+Palau,Meyungs,16,27.0,4.0200000000000005,0,11,5,-0.1265,Decreasing
+Panama,Panama City,435,25.402298850574713,81.34,0,357,78,-0.003,Stable
+Papua New Guinea,Port Moresby,436,26.90756880733945,176.64,0,149,287,0.0057,Stable
+Paraguay,Aguaray,108,23.293518518518518,11.959999999999999,0,28,80,0.0159,Stable
+Paraguay,Asuncion,1,13.7,0.0,0,0,1,0.0,Stable
+Paraguay,Aurora,256,19.92421875,14.93,0,64,192,-0.0173,Stable
+Paraguay,Carreria,12,26.5,1.25,0,2,10,-0.6217,Decreasing
+Paraguay,Garrapata,33,22.25151515151515,3.57,0,10,23,0.1095,Increasing
+Paraguay,Pasto,19,20.473684210526315,0.04,0,0,19,0.2179,Increasing
+Paraguay,Sartorio,8,23.4625,0.28,0,4,4,-0.1369,Decreasing
+Peru,Lima,434,18.010138248847927,1.6600000000000001,0,197,237,0.0091,Stable
+Philippines,Kiyabo,1,30.3,0.12,0,0,1,0.0,Stable
+Philippines,Manila,435,30.306896551724137,164.47,0,108,327,0.0066,Stable
+Poland,Warsaw,437,11.666590389016019,19.96,47,133,257,-0.0461,Decreasing
+PolÃ´nia,Moldova,1,27.7,0.0,0,0,1,0.0,Stable
+Portugal,Lisbon,435,16.827816091954023,30.1,0,169,266,-0.0245,Stable
+Qatar,Doha,437,32.18466819221968,0.6599999999999999,89,116,232,-0.0236,Stable
+Romania,Bucharest,436,15.058256880733945,24.44,35,124,277,-0.0472,Decreasing
+Russia,Chi-Chi-Erh,23,-13.869565217391305,0.01,21,1,1,0.7569,Increasing
+Russia,Lom,6,20.016666666666666,0.8300000000000001,0,1,5,1.0429,Increasing
+Russia,Moscow,437,9.240732265446225,41.94,95,132,210,-0.0462,Decreasing
+Russia,Saint Petersburg,1,22.9,0.0,0,0,1,0.0,Stable
+Rwanda,Kigali,436,23.68509174311927,80.72,0,59,377,-0.0198,Stable
+Saint Kitts and Nevis,Basseterre,437,26.619221967963387,52.73,1,107,329,-0.0086,Stable
+Saint Lucia,Castries,437,27.0649885583524,62.81,0,86,351,-0.0057,Stable
+Saint Vincent and the Grenadines,Kingstown,436,27.279357798165137,58.3,0,37,399,-0.0066,Stable
+Saint-Vincent-et-les-Grenadines,Kingstown,1,27.8,0.13,0,0,1,0.0,Stable
+Samoa,Apia,433,25.99468822170901,117.4,0,278,155,0.0047,Stable
+San Marino,City Of San Marino,1,31.3,0.0,0,0,1,0.0,Stable
+San Marino,San Marino,433,16.61270207852194,54.660000000000004,2,103,328,-0.0297,Stable
+Saudi Arabia,Riyadh,436,30.416743119266055,1.42,122,67,247,-0.0408,Decreasing
+Saudi Arabien,Ar Riyadh,1,45.0,0.0,1,0,0,0.0,Stable
+Senegal,Dakar,437,24.380320366132725,16.04,0,133,304,-0.0156,Stable
+Serbia,Belgrade,436,15.16834862385321,48.89,20,136,280,-0.0427,Decreasing
+Seychelles Islands,Victoria,436,28.916284403669724,59.7,0,38,398,0.0037,Stable
+Sierra Leone,Freetown,434,25.957834101382492,154.82999999999998,0,172,262,-0.0077,Stable
+Singapore,Singapore,437,29.927231121281466,164.94,0,52,385,0.0075,Stable
+Slovakia,Bratislava,436,13.072247706422019,27.3,27,134,275,-0.0393,Decreasing
+Slovenia,Ljubljana,437,12.92745995423341,80.8,34,180,223,-0.0397,Decreasing
+Solomon Islands,Honiara,437,27.316247139588103,179.5,0,241,196,0.0093,Stable
+Somalia,Mogadishu,436,28.826146788990826,15.68,0,46,390,0.0003,Stable
+South Africa,Pretoria,437,20.884897025171625,32.89,0,49,388,-0.0153,Stable
+South Korea,Seoul,436,16.47110091743119,46.62,40,108,288,-0.0107,Stable
+Spain,Madrid,436,15.469266055045873,20.51,3,123,310,-0.0393,Decreasing
+Sri Lanka,Colombo,436,30.14724770642202,196.8,0,59,377,0.0063,Stable
+Sudan,Juba,436,28.410091743119263,5.01,8,55,373,-0.0222,Stable
+Sudan,Khartoum,436,31.26697247706422,10.62,28,97,311,-0.0239,Stable
+Suriname,Paramaribo,436,24.361238532110093,81.2,0,377,59,-0.0075,Stable
+Swaziland,Mbabane,435,21.468735632183908,26.97,0,78,357,-0.0119,Stable
+Sweden,Stockholm,436,9.74908256880734,19.07,59,147,230,-0.0375,Decreasing
+Switzerland,Bern,436,10.830733944954128,77.92,48,180,208,-0.0376,Decreasing
+Switzerland,S-Chanf,32,0.15625000000000003,5.83,15,14,3,-0.73,Decreasing
+Syria,Damascus,435,21.387356321839082,11.98,8,101,326,-0.0488,Decreasing
+SÃ¼dkorea,Seoul,1,26.1,0.22,0,0,1,0.0,Stable
+Tajikistan,Dushanbe,436,22.530963302752294,24.51,14,96,326,-0.0211,Stable
+Tanzania,Dodoma,437,25.395194508009155,28.89,0,26,411,-0.0179,Stable
+Thailand,Bangkok,435,31.701609195402302,58.35,0,78,357,0.0091,Stable
+Thailand,Nan,437,30.37070938215103,134.64,0,122,315,0.0091,Stable
+Timor-Leste,Dili,435,26.404597701149424,176.8,0,34,401,0.0053,Stable
+Togo,Lome,1,27.9,0.16,0,0,1,0.0,Stable
+Tonga,Nuku'alofa,1,23.7,0.01,0,0,1,0.0,Stable
+Tonga,Nuku`Aloia,436,24.161926605504586,104.44,0,322,114,0.0093,Stable
+Trinidad and Tobago,Port Of Spain,437,25.3045766590389,91.49,0,311,126,-0.0092,Stable
+Tunisia,Tunis,434,21.50852534562212,10.94,1,120,313,-0.0382,Decreasing
+Turkey,Ankara,436,15.397706422018349,22.06,24,88,324,-0.0434,Decreasing
+Turkey,Yaren,435,17.50413793103448,31.95,8,152,275,-0.0461,Decreasing
+Turkmenistan,Ashgabat,436,22.134633027522938,10.61,11,120,305,-0.0279,Stable
+TurkmÃ©nistan,Krasnyy Turkmenistan,1,37.8,0.0,0,1,0,0.0,Stable
+Tuvalu,Funafuti,437,28.7929061784897,163.64000000000001,0,95,342,0.0015,Stable
+USA United States of America,Grenada,1,28.2,0.0,0,0,1,0.0,Stable
+USA United States of America,Moroni,1,18.2,0.0,0,0,1,0.0,Stable
+USA United States of America,Palau,1,27.2,1.59,0,0,1,0.0,Stable
+Uganda,Kampala,436,25.164908256880732,72.5,0,69,367,-0.0113,Stable
+Ukraine,Kyiv,437,11.87025171624714,25.66,61,107,269,-0.0479,Decreasing
+United Arab Emirates,Abu Dhabi,437,32.14370709382151,0.27,74,115,248,-0.0179,Stable
+United Kingdom,London,435,12.194942528735632,33.58,4,213,218,-0.0255,Stable
+United States of America,New York,1,26.1,0.0,0,0,1,0.0,Stable
+United States of America,Washington Harbor,417,8.296882494004796,26.21,10,319,88,-0.0057,Stable
+United States of America,Washington Park,16,10.41875,0.0,0,2,14,-0.3801,Decreasing
+Uruguay,Montevideo,437,14.743478260869564,42.59,0,293,144,0.0107,Stable
+Uzbekistan,Tashkent,437,21.93913043478261,16.4,15,105,317,-0.0231,Stable
+Vanuatu,Port Vila,436,25.23394495412844,98.93,0,265,171,0.0123,Stable
+Vatican City,Vatican City,437,18.42929061784897,33.81,0,130,307,-0.0392,Decreasing
+Venezuela,Caracas,436,22.897935779816514,43.68,0,194,242,-0.0097,Stable
+Vietnam,Ban Lom,249,26.2004016064257,75.92,0,93,156,0.0245,Stable
+Vietnam,Hanoi,436,27.143807339449545,119.82,0,80,356,-0.0037,Stable
+Vietnam,Ho Chi Minh City,1,26.6,0.1,0,1,0,0.0,Stable
+Vietnam,S. Manian,29,28.982758620689655,0.14,0,3,26,0.2465,Increasing
+Yemen,Sanaa,436,21.93256880733945,20.84,0,2,434,-0.017,Stable
+Zambia,Lusaka,437,24.17574370709382,46.41,0,73,364,-0.0183,Stable
+Zimbabwe,Harare,435,22.968275862068968,45.49,0,38,397,-0.0178,Stable
+Ð¢ÑƒÑ€Ñ†Ð¸Ñ,Yaren,1,34.0,0.0,0,0,1,0.0,Stable
+ÐŸÐ¾Ð»ÑŒÑˆÐ°,Beirut,1,24.2,0.0,0,0,1,0.0,Stable
+Ð“Ð²Ð°Ñ‚ÐµÐ¼Ð°Ð»Ð°,New Guatemala,1,15.9,0.0,0,1,0,0.0,Stable
+ÙƒÙˆÙ„ÙˆÙ…Ø¨ÙŠØ§,Costa Rica,1,23.1,0.05,0,1,0,0.0,Stable
+ç«é¸¡,#NAME?,1,29.7,0.0,0,0,1,0.0,Stable

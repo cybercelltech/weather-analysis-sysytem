@@ -1,0 +1,176 @@
+WEATHER DATA ANALYSIS SYSTEM
+Dataset Source: weather_data.csv
+Analysis Scope: Worldwide
+Total Records Analyzed: 85030
+Countries Covered: 211
+Cities Covered: 258
+
+KEY INSIGHTS
+1. Hottest Record: 2026-04-24 at Suva, Fiji Islands with 79.3 C
+2. Coldest Record: 2026-01-18 at Ulaanbaatar, Mongolia with -29.8 C
+3. Rainiest Record: 2024-10-20 at Port Royal, Jamaica with 26.4 mm rainfall
+4. Windiest Record: 2024-06-23 at Bujumbura, Burundi with 2963.2 kmph wind speed
+5. Average Temperature: 21.27 C
+6. Average Humidity: 66.82%
+7. Total Rainfall: 11225.34 mm
+8. Average Wind Speed: 12.91 kmph
+9. Temperature Trend: Overall decreasing
+
+MONTHLY HIGHLIGHTS
+Hottest Month: July (26.11 C average)
+Coldest Month: January (16.21 C average)
+Rainiest Month: August (1162.91 mm rainfall)
+
+TOP COUNTRIES BY AVERAGE TEMPERATURE
+             Country  Records  Average_Temperature_C  Total_Rainfall_mm
+       Saudi Arabien        1                  45.00               0.00
+            Marrocos        1                  40.30               0.00
+       TurkmÃ©nistan        1                  37.80               0.00
+        Ð¢ÑƒÑ€Ñ†Ð¸Ñ        1                  34.00               0.00
+               Qatar      437                  32.18               0.66
+United Arab Emirates      437                  32.14               0.27
+                Oman      437                  31.63               3.05
+            Cambodia      436                  31.61              60.76
+            Djibouti      435                  31.32              10.09
+                Inde        1                  31.20               0.00
+
+CITY-WISE FUTURE TREND
+               Country              City  Records  Average_Temperature_C  Extreme_Days  Warning_Days  Normal_Days Future_Trend
+           Afghanistan             Kabul      437                  19.04            10            41          386       Stable
+               Albania            Tirana      437                  19.08             1            87          349   Decreasing
+               Algeria           Algiers      436                  20.12             0            88          348   Decreasing
+               Andorra  Andorra La Vella      437                   8.66           104            98          235   Decreasing
+                Angola            Luanda      437                  26.20             0            38          399       Stable
+   Antigua and Barbuda      Saint John's      436                  26.30             0           103          333       Stable
+             Argentina      Buenos Aires      436                  15.21             0           214          222       Stable
+               Armenia           Yerevan      437                  16.53            32            74          331   Decreasing
+             Australia          Canberra      436                  15.42            12            99          325   Increasing
+             Australia         Melbourne        1                  11.60             0             0            1       Stable
+               Austria            Vienna      436                  12.59            36           131          269   Decreasing
+            Azerbaijan              Baku      437                  18.31             2           120          315       Stable
+               Bahamas            Nassau      433                  24.54             0           177          256       Stable
+               Bahrain            Manama      437                  29.72            34           153          250       Stable
+            Bangladesh             Dhaka      436                  31.00             4            75          357       Stable
+              Barbados        Bridgetown      436                  27.03             0            86          350       Stable
+               Belarus             Minsk      437                   9.64            74           146          217   Decreasing
+               Belgium 'S Gravenjansdijk      259                  14.48             3           100          156       Stable
+               Belgium  'S Gravenjansdyk        4                  17.80             0             1            3   Decreasing
+               Belgium  'S Gravenstaffel       16                  15.56             0             7            9   Increasing
+               Belgium   'S-Gravenbrakel       95                   8.04             6            59           30   Decreasing
+               Belgium          Brussels      436                  12.08            16           184          236       Stable
+                Belize          Belmopan      434                  22.05             0           408           26       Stable
+                 Benin        Porto-Novo      436                  28.29             0           147          289       Stable
+                Bhutan           Thimphu      436                  13.33             0           113          323       Stable
+               Bolivia          National      434                  22.57             0           243          191       Stable
+               Bolivia             Sucre      434                  11.96             0           130          304       Stable
+Bosnia and Herzegovina          Sarajevo      437                  12.76            45           148          244   Decreasing
+              Botswana          Gaborone      437                  23.04             0            72          365       Stable
+                Brazil              Bras      435                  24.17             0           267          168       Stable
+
+AVERAGE MONTHLY WEATHER
+    Month  Average_Temperature_C  Total_Rainfall_mm  Average_Humidity_Percent  Average_WindSpeed_kmph
+  January                  16.21             783.24                     70.63                   12.70
+ February                  16.90             704.16                     69.45                   12.71
+    March                  19.02             942.85                     68.48                   12.68
+    April                  21.19             736.31                     66.60                   12.28
+      May                  24.30            1100.18                     62.00                   13.98
+     June                  25.92            1047.28                     61.02                   14.42
+     July                  26.11            1127.71                     62.44                   13.60
+   August                  25.67            1162.91                     63.86                   13.23
+September                  23.64            1010.85                     67.17                   12.60
+  October                  21.39             825.10                     68.66                   12.18
+ November                  18.19             955.35                     70.85                   12.02
+ December                  16.60             829.40                     70.52                   12.61
+
+7-DAY WORLD AVERAGE TEMPERATURE PREDICTION
+               Date  Predicted_Temperature_C
+2026-05-01 23:45:00                    20.87
+2026-05-02 23:45:00                    20.87
+2026-05-03 23:45:00                    20.87
+2026-05-04 23:45:00                    20.87
+2026-05-05 23:45:00                    20.87
+2026-05-06 23:45:00                    20.87
+2026-05-07 23:45:00                    20.87
+
+7-DAY CITY-WISE TEMPERATURE PREDICTION
+            Country             City       Date  Predicted_Temperature_C Future_Trend
+        Afghanistan            Kabul 2026-05-01                    13.73       Stable
+        Afghanistan            Kabul 2026-05-02                    13.70       Stable
+        Afghanistan            Kabul 2026-05-03                    13.68       Stable
+        Afghanistan            Kabul 2026-05-04                    13.66       Stable
+        Afghanistan            Kabul 2026-05-05                    13.63       Stable
+        Afghanistan            Kabul 2026-05-06                    13.61       Stable
+        Afghanistan            Kabul 2026-05-07                    13.58       Stable
+            Albania           Tirana 2026-05-01                     9.61   Decreasing
+            Albania           Tirana 2026-05-02                     9.57   Decreasing
+            Albania           Tirana 2026-05-03                     9.52   Decreasing
+            Albania           Tirana 2026-05-04                     9.48   Decreasing
+            Albania           Tirana 2026-05-05                     9.44   Decreasing
+            Albania           Tirana 2026-05-06                     9.39   Decreasing
+            Albania           Tirana 2026-05-07                     9.35   Decreasing
+            Algeria          Algiers 2026-05-01                    12.12   Decreasing
+            Algeria          Algiers 2026-05-02                    12.08   Decreasing
+            Algeria          Algiers 2026-05-03                    12.04   Decreasing
+            Algeria          Algiers 2026-05-04                    12.01   Decreasing
+            Algeria          Algiers 2026-05-05                    11.97   Decreasing
+            Algeria          Algiers 2026-05-06                    11.93   Decreasing
+            Algeria          Algiers 2026-05-07                    11.90   Decreasing
+            Andorra Andorra La Vella 2026-05-01                    -0.26   Decreasing
+            Andorra Andorra La Vella 2026-05-02                    -0.30   Decreasing
+            Andorra Andorra La Vella 2026-05-03                    -0.34   Decreasing
+            Andorra Andorra La Vella 2026-05-04                    -0.38   Decreasing
+            Andorra Andorra La Vella 2026-05-05                    -0.42   Decreasing
+            Andorra Andorra La Vella 2026-05-06                    -0.46   Decreasing
+            Andorra Andorra La Vella 2026-05-07                    -0.50   Decreasing
+             Angola           Luanda 2026-05-01                    24.98       Stable
+             Angola           Luanda 2026-05-02                    24.98       Stable
+             Angola           Luanda 2026-05-03                    24.97       Stable
+             Angola           Luanda 2026-05-04                    24.97       Stable
+             Angola           Luanda 2026-05-05                    24.96       Stable
+             Angola           Luanda 2026-05-06                    24.95       Stable
+             Angola           Luanda 2026-05-07                    24.95       Stable
+Antigua and Barbuda     Saint John's 2026-05-01                    24.46       Stable
+Antigua and Barbuda     Saint John's 2026-05-02                    24.45       Stable
+Antigua and Barbuda     Saint John's 2026-05-03                    24.44       Stable
+Antigua and Barbuda     Saint John's 2026-05-04                    24.44       Stable
+Antigua and Barbuda     Saint John's 2026-05-05                    24.43       Stable
+Antigua and Barbuda     Saint John's 2026-05-06                    24.42       Stable
+Antigua and Barbuda     Saint John's 2026-05-07                    24.41       Stable
+          Argentina     Buenos Aires 2026-05-01                    17.94       Stable
+          Argentina     Buenos Aires 2026-05-02                    17.95       Stable
+          Argentina     Buenos Aires 2026-05-03                    17.97       Stable
+          Argentina     Buenos Aires 2026-05-04                    17.98       Stable
+          Argentina     Buenos Aires 2026-05-05                    17.99       Stable
+          Argentina     Buenos Aires 2026-05-06                    18.00       Stable
+          Argentina     Buenos Aires 2026-05-07                    18.02       Stable
+            Armenia          Yerevan 2026-05-01                     7.22   Decreasing
+            Armenia          Yerevan 2026-05-02                     7.17   Decreasing
+            Armenia          Yerevan 2026-05-03                     7.13   Decreasing
+            Armenia          Yerevan 2026-05-04                     7.09   Decreasing
+            Armenia          Yerevan 2026-05-05                     7.05   Decreasing
+            Armenia          Yerevan 2026-05-06                     7.00   Decreasing
+            Armenia          Yerevan 2026-05-07                     6.96   Decreasing
+          Australia         Canberra 2026-05-01                    24.41   Increasing
+          Australia         Canberra 2026-05-02                    24.45   Increasing
+          Australia         Canberra 2026-05-03                    24.49   Increasing
+          Australia         Canberra 2026-05-04                    24.53   Increasing
+          Australia         Canberra 2026-05-05                    24.58   Increasing
+          Australia         Canberra 2026-05-06                    24.62   Increasing
+          Australia         Canberra 2026-05-07                    24.66   Increasing
+          Australia        Melbourne 2024-06-26                    11.60       Stable
+          Australia        Melbourne 2024-06-27                    11.60       Stable
+          Australia        Melbourne 2024-06-28                    11.60       Stable
+          Australia        Melbourne 2024-06-29                    11.60       Stable
+          Australia        Melbourne 2024-06-30                    11.60       Stable
+          Australia        Melbourne 2024-07-01                    11.60       Stable
+          Australia        Melbourne 2024-07-02                    11.60       Stable
+            Austria           Vienna 2026-05-01                     4.01   Decreasing
+            Austria           Vienna 2026-05-02                     3.97   Decreasing
+            Austria           Vienna 2026-05-03                     3.93   Decreasing
+            Austria           Vienna 2026-05-04                     3.89   Decreasing
+            Austria           Vienna 2026-05-05                     3.85   Decreasing
+            Austria           Vienna 2026-05-06                     3.81   Decreasing
+            Austria           Vienna 2026-05-07                     3.77   Decreasing
+         Azerbaijan             Baku 2026-05-01                    12.69       Stable
+         Azerbaijan             Baku 2026-05-02                    12.66       Stable
+         Azerbaijan             Baku 2026-05-03                    12.63       Stable
