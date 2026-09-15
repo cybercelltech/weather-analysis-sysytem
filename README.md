@@ -1,1 +1,1 @@
-# weather-analysis-sysytem
+# weather-analysis-system
